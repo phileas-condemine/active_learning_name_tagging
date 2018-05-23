@@ -1,0 +1,18 @@
+ui.R
+server.R
+global.R
+.httr-oauth
+droptoken.rds
+utils/prediction.R
+utils/data prep.R
+utils/run_xgboost.R
+utils/create_dtm_fulltext_nontagged.R
+utils/themeSelector.R
+utils/dropdownButton.R
+data_original/tags_vs_rename_invenis.csv
+data_original/nom_tags_dans_pred.csv
+data_original/03042018_prediction.csv
+data_original/nomenclatures.csv
+data_original/29032018_Index2.csv
+RData/tagged_triplet.RData
+RData/indicateurs_a_tagger.RData
