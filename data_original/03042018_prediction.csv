@@ -1,0 +1,831 @@
+Base;Indicateur;label;Population_generale;Personnes_agees;Enfants__adolescents__jeunes_adultes;Population_precaire;Personnes_handicapees;Femmes__accouchement_grossesse____Perinatalite;Diabete_et_autres_maladies_endocriniennes;Sante_mentale;Cancer;Maladie_de_l_appareil_genito_urinaire__dont_les_insuffisances_renales_chroniques_;Maladies_cardiovasculaires;Maladies_neurologiques_ou_degeneratives;Maladies_respiratoires_;Maladies_de_l_appareil_digestif;Maladies_infectieuses;Pathologies_du_systeme_osteo_articulaire;Traumatismes_et_pathologie_accidentelle;Autres_pathologies;Coordination_continuite;Qualite_et_securite_des_soins;Pertinence_des_soins;Prevention_depistage;Accessibilite__geographique__financier__autres_;Efficience;Habitudes_de_vie_et_addictions;Determinants_environnementaux;E_sante__systemes_d_information_de_sante__telesante__telemedecine_;Droits_d_usagers_democratie_sanitaire;Mesures_d_inegalites_et_de_disparites_territoriales_de_sante;Contexte_demographique_et_socio_economique;Offre_de_soins;Offre_medico_sociale;Recours_aux_soins;Protection_sociale;Depenses_de_sante;Etat_de_sante;index
+AMELI;Montants infra-annuels de remboursement de la Prise en charge des cotisations des signataires du CAS - tous risques confondus - Série labellisée en date de remboursement         ;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;65
+AMELI;Taux d'évolution PCAP des versements du TOTAL VERSEMENTS AUX ETABLISSEMENTS DE SANTE ET HONORAIRES DU SECTEUR PUBLIC  - tous risques confondus - Série labellisée en date de remboursement;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;108
+AMELI;Montants infra-annuels de remboursement d'honoraires des Dentistes libéraux - par type de risque - Statistiques des dépenses des CPAM en date de remboursement;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;156
+AMELI;Montants infra-annuels de versement des  Autres prestations médico-sociales - par type de risque - Statistiques des dépenses des CPAM en date de remboursement;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;196
+AMELI;Montants infra-annuels du total DES DÉPENSES AM - par type de risque - Statistiques des dépenses des CPAM en date de remboursement;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;207
+AMELI;Taux d'évolution PCAP / GAM de versement aux établissements médico-sociaux pour  Adultes handicapés - par type de risque - Statistiques des dépenses des CPAM en date de remboursement;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;249
+AMELI;Taux d'évolution PCAP / GAM de versement de  l'Assurance Invalidité - par type de risque - Statistiques des dépenses des CPAM en date de remboursement;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;259
+AMELI;Dénombrement infra-annuels d'actes, coefficients, journées des honoraires de Médecins libéraux (omnipraticiens libéraux+spécialistes libéraux) par type d'acte  - par type de risque - Statistiques des dépenses des CPAM en date de remboursement  ;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;265
+AMELI;Dénombrement infra-annuels d'actes, coefficients, journées du TOTAL PRESTATIONS EN ESPECES  - par type de risque - Statistiques des dépenses des CPAM en date de remboursement;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;278
+AMELI;Taux moyen de remboursement  OQN - PSYCHIATRIE - SOINS DE SUITE OU READAPTATION FONCTIONNELLE (SSR) aux établissements de santé privés - Statistiques des dépenses des CPAM en date de remboursement;1;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;300
+AMELI;Taux d'évolution PCAP des montants remboursables de soins de ville de dentistes par lieu d'exécution - Statistiques des dépenses des CPAM en date de remboursement ;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;331
+AMELI;Taux d'évolution PCAP des montants remboursables de soins de ville de infirmiers par lieu d'exécution - Statistiques des dépenses des CPAM en date de remboursement ;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;339
+AMELI;Taux d'évolution PCAP des montants remboursés de soins de ville de pédicures par lieu d'exécution - Statistiques des dépenses des CPAM en date de remboursement ;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;353
+AMELI;Taux d'évolution PCAP de la dépense remboursable d'honoraires des médecins spécialistes enTOTAL MEDECINE INTERNE par lieu d'exécution et type d'acte - Statistiques des dépenses des CPAM en date de remboursement;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;399
+AMELI;Taux d'évolution PCAP de la dépense remboursée d'honoraires des médecins spécialistes en Gériatrie par lieu d'exécution et type d'acte - Statistiques des dépenses des CPAM en date de remboursement;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;463
+AMELI;Dépense totale infra-annuelle d'honoraires  des médecins spécialistes en TOTAL MEDECINE INTERNE par lieu d'exécution et type d'acte - Statistiques des dépenses des CPAM en date de remboursement;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;480
+AMELI;Taux d'évolution PCAP de la dépense totale d'honoraires des médecins spécialistes enGastro-entérologie et hépatologie par lieu d'exécution et type d'acte - Statistiques des dépenses des CPAM en date de remboursement;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;506
+AMELI;Taux d'évolution PCAP de la dépense totale d'honoraires des médecins spécialistes enTOTAL STOMATOLOGIE par lieu d'exécution et type d'acte - Statistiques des dépenses des CPAM en date de remboursement;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;513
+AMELI;Dépense remboursable infra-annuelle de prescriptions des auxiliaires médicaux  libéraux - Statistiques des dépenses des CPAM en date de remboursement;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;533
+AMELI;Montants du Reste à charge par type de poste pour la dépense en Médecins libéraux - Statistiques des dépenses des CPAM en date de remboursement;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;0;1;0;556
+AMELI;Effectifs de médecins libéraux spécialistes en 77- Obstétrique par secteur conventionnel;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;594
+AMELI;Effectifs de médecins libéraux spécialistes en 12- Pédiatrie par secteur conventionnel;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;605
+AMELI;Effectifs de médecins libéraux spécialistes en TOTAL PEDIATRIE  (78, 12) par secteur conventionnel;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;606
+AMELI;Effectifs de médecins libéraux spécialistes en 10- Neurochirurgie par mode d'exercice;1;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;654
+AMELI;Effectifs de médecins libéraux spécialistes en 79- Gynécologie obstétrique et gynécologie médicale par mode d'exercice;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;666
+AMELI;Effectifs de médecins libéraux spécialistes en 78- Médecine génétique par mode d'exercice;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;675
+AMELI;Effectifs de médecins libéraux spécialistes en 12- Pédiatrie par mode d'exercice;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;676
+AMELI;Effectifs de médecins libéraux spécialistes en TOTAL PEDIATRIE  (78, 12) par mode d'exercice;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;677
+AMELI;Effectifs de médecins libéraux spécialistes en 45- Chirurgie maxillo-faciale et stomatologie par mode d'exercice;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;681
+AMELI;Effectifs de médecins libéraux spécialistes en 12- Pédiatrie par âge et sexe;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;743
+AMELI;Effectifs de médecins libéraux spécialistes en TOTAL PEDIATRIE  (78, 12) par âge et sexe;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;744
+AMELI;Âge moyen des médecins spécialistes libéraux en 46- Chirurgie plastique reconstructrice et esthétique;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;783
+AMELI;Âge moyen des médecins spécialistes libéraux en 04- Chirurgie générale;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;787
+AMELI;Effectifs de médecins libéraux actifs à part entière (APE) en 43- Chirurgie infantile ;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;920
+AMELI;Effectifs de médecins libéraux actifs à part entière (APE) en 44- Chirurgie maxillo-faciale ;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;921
+AMELI;Effectifs de médecins libéraux actifs à part entière (APE) en 10- Neurochirurgie ;1;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;927
+AMELI;Effectifs de médecins libéraux actifs à part entière (APE) en 12- Pédiatrie ;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;949
+AMELI;Effectifs de médecins libéraux actifs à part entière (APE) en Psychiatrie et Neuro- psychiatrie (Total);1;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;958
+AMELI;Proportion de médecins libéraux spécialistes en 77- Obstétrique  actifs à part entière (APE) ;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;992
+AMELI;Proportion de médecins libéraux spécialistes en 79- Gynécologie obstétrique et gynécologie médicale  actifs à part entière (APE) ;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;993
+AMELI;Proportion de chirurgiens-dentistes libéraux spécialistes en médecine bucco-dentaire actifs à part entière (APE);1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1036
+AMELI;Proportion d'auxiliaires médicaux libéraux (Total 24, 26, 27, 28,29) actifs à part entière (APE);1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1045
+AMELI;Nombre de consultations réalisées par des médecins libéraux spécialistes en 76- Radiothérapie ;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1068
+AMELI;Nombre de visites réalisées par des médecins libéraux spécialistes en 15- Ophtalmologie ;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1140
+AMELI;Nombre d'actes CCAM réalisés par des médecins libéraux spécialistes en 43- Chirurgie infantile par type d'actes;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1160
+AMELI;Nombre d'actes CCAM réalisés par des médecins libéraux spécialistes en TOTAL GYNECOLOGIE  (70, 77, 79, 07) par type d'actes;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1181
+AMELI;Nombre d'actes CCAM réalisés par des médecins libéraux spécialistes en 15- Ophtalmologie par type d'actes;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1193
+AMELI;Nombre d'actes NGAP réalisés par des médecins libéraux spécialistes en 48- Chirurgie vasculaire par type d'actes;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1217
+AMELI;Nombre d'actes NGAP réalisés par des médecins libéraux spécialistes en 34-Gériatrie par type d'actes;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1259
+AMELI;Prescriptions des médecins libéraux spécialistes en 76- Radiothérapie par type de prescriptions;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1281
+AMELI;Prescriptions des médecins libéraux spécialistes en 75- Psychiatrie de l'enfant et de l'adolescent par type de prescriptions;1;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1306
+AMELI;Prescriptions de l'ensemble des chirurgiens-dentistes libéraux;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1335
+AMELI;Nombre de coefficients NGAP facturés par les orthoptistes libéraux par type de coefficients;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1349
+AMELI;Nombre de consultations réalisées par des médecins libéraux actifs à part entière (APE) spécialistes en 20- Réanimation médicale ;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1365
+AMELI;Nombre de consultations réalisées par des médecins libéraux actifs à part entière (APE) spécialistes en 45- Chirurgie maxillo-faciale et stomatologie ;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1402
+AMELI;Nombre de visites réalisées par des médecins libéraux actifs à part entière (APE) spécialistes en 16- Chirurgie urologique ;1;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1429
+AMELI;Nombre de visites réalisées par des médecins libéraux actifs à part entière (APE) spécialistes en 41- Chirurgie orthopédique et traumatologie ;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1430
+AMELI;Nombre de visites réalisées par des médecins libéraux actifs à part entière (APE) spécialistes en 45- Chirurgie maxillo-faciale et stomatologie ;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1455
+AMELI;Nombre d'actes CCAM réalisés par des médecins libéraux actifs à part entière (APE) spécialistes en 09- Médecine interne par type d'actes;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1499
+AMELI;Nombre d'actes CCAM réalisés par des médecins libéraux actifs à part entière (APE) spécialistes en 34-Gériatrie par type d'actes;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1520
+AMELI;Nombre d'actes NGAP réalisés par des médecins libéraux actifs à part entière (APE) spécialistes en 35- Néphrologie par type d'actes;1;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1570
+AMELI;Prescriptions des médecins libéraux actifs à part entière (APE) spécialistes en 15- Ophtalmologie par type de prescriptions;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;1614
+AMELI;Nombre d'actes NGAP réalisés par les chirurgiens-dentistes libéraux actifs à part entière (APE) par type d'actes;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1631
+AMELI;Nombre de coefficients NGAP facturés par les chirurgiens-dentistes libéraux actifs à part entière (APE) spécialisés en chirurgie orale par type de coefficients;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;1636
+AMELI;Honoraires sans dépassement des médecins généralistes et MEP libéraux (omnipraticiens);1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;1666
+AMELI;Honoraires sans dépassement des Chirurgiens dentistes libéraux spécialisés en Médecine bucco-dentaire;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;1729
+AMELI;Dépassements des médecins libéraux spécialistes en TOTAL GYNECOLOGIE  (70, 77, 79, 07)  ;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;0;1;0;1758
+AMELI;Dépassements des médecins libéraux spécialistes en 42- Endocrinologie et métabolisme  ;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;0;1;0;1782
+AMELI;Frais de déplacement des médecins libéraux spécialistes en 04- Chirurgie générale  ;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;0;1;0;1809
+AMELI;Frais de déplacement des médecins libéraux spécialistes en 06- Radiodiagnostic et imagerie médicale  ;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;0;1;0;1818
+AMELI;Frais de déplacement des médecins libéraux spécialistes en 45- Chirurgie maxillo-faciale et stomatologie  ;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;0;1;0;1837
+AMELI;Frais de déplacement des médecins libéraux spécialistes en 33- Psychiatrie  ;1;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;1843
+AMELI;Frais de déplacement des médecins libéraux spécialistes en TOTAL PSYCHIATRIE  et NEUROPSYCHIATRIE (75, 33, 17)  ;1;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;1845
+AMELI;Honoraires totaux des médecins libéraux spécialistes en 09- Médecine interne  ;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;1894
+AMELI;Honoraires totaux des médecins libéraux spécialistes en 37- Anatomo-cyto-pathologie  ;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;1913
+AMELI;Honoraires totaux des AUXILIAIRES MEDICAUX libéraux;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1923
+AMELI;Nombre de dépassements des médecins libéraux spécialistes en 16- Chirurgie urologique  ;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;0;1;0;1943
+AMELI;Nombre de dépassements des médecins libéraux spécialistes en TOTAL RADIOLOGIE  (72, 74, 76, 06)  ;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;0;1;0;1951
+AMELI;Nombre de dépassements des médecins libéraux spécialistes en 07- Gynécologie obstétrique  ;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;0;1;0;1955
+AMELI;Nombre de dépassements des médecins libéraux spécialistes en TOTAL GYNECOLOGIE  (70, 77, 79, 07)  ;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;0;1;0;1956
+AMELI;Nombre de dépassements des médecins libéraux spécialistes en 31- Médecine Physique et de Réadaptation  ;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;0;1;0;1972
+AMELI;Nombre de dépassements des médecins libéraux spécialistes en 32- Neurologie  ;1;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;0;1;0;1973
+AMELI;Dépassements moyens des médecins libéraux spécialistes en 02- Anesthésie-réanimation chirurgicale  ;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;0;1;0;1997
+AMELI;Dépassements moyens des médecins libéraux spécialistes en 47- Chirurgie thoracique et cardio-vasculaire  ;1;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;0;1;0;2004
+AMELI;Dépassements moyens des médecins libéraux spécialistes en TOTAL CHIRURGIE y compris 10,16,41  (43, 44, 46, 47, 48, 49, 04, 10, 16, 41)  ;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;2011
+AMELI;Dépassements moyens des médecins libéraux spécialistes en 17- Neuropsychiatrie  ;1;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;0;1;0;2042
+AMELI;Honoraires sans dépassement des médecins libéraux actifs à part entière (APE) spécialistes en 48- Chirurgie vasculaire;1;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;2071
+AMELI;Honoraires sans dépassement des médecins libéraux actifs à part entière (APE) spécialistes en 76- Radiothérapie;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;2081
+AMELI;Honoraires sans dépassement des médecins libéraux actifs à part entière (APE) spécialistes en TOTAL PEDIATRIE  (78, 12);1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;2097
+AMELI;Dépassements des médecins libéraux actifs à part entière (APE) spécialistes en 43- Chirurgie infantile;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;0;1;0;2133
+AMELI;Dépassements des médecins libéraux actifs à part entière (APE) spécialistes en 72- Médecine nucléaire;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;0;1;0;2145
+AMELI;Dépassements des médecins libéraux actifs à part entière (APE) spécialistes en 78- Médecine génétique;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;0;1;0;2161
+AMELI;Frais de déplacement des médecins libéraux actifs à part entière (APE) spécialistes en 34-Gériatrie;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;2245
+AMELI; Frais de déplacement des Infirmiers libéraux actifs à part entière (APE);1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;0;1;0;2254
+AMELI;Frais de déplacement des Masseurs-kinésithérapeutes-rééducateurs libéraux actifs à part entière (APE);1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;0;1;0;2255
+AMELI;Honoraires totaux des médecins libéraux actifs à part entière (APE) spécialistes en 20- Réanimation médicale;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;2262
+AMELI;Honoraires totaux des médecins libéraux actifs à part entière (APE) spécialistes en TOTAL STOMATOLOGIE  (45, 18);1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;2301
+AMELI;Nombre de dépassements des médecins libéraux actifs à part entière (APE) spécialistes en 08- Gastro-entérologie et hépatologie;1;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;0;1;0;2353
+AMELI;Nombre de dépassements des Chirurgiens-dentistes libéraux actifs à part entière (APE);1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;0;1;0;2380
+AMELI;Dépassements moyens des Chirurgiens dentistes libéraux spécialisés en Médecine bucco-dentaire actifs à part entière (APE);1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;0;1;0;2448
+AMELI;Honoraires sans dépassement des médecins libéraux actifs à part entière (APE) spécialistes en TOTAL RADIOLOGIE  (72, 74, 76, 06) par APE;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;2479
+AMELI;Honoraires sans dépassement de l'ensemble des médecins spécialistes libéraux actifs à part entière (APE) par APE;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;2510
+AMELI;Dépassements des médecins libéraux actifs à part entière (APE) spécialistes en 04- Chirurgie générale par APE;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;2535
+AMELI;Dépassements des médecins libéraux actifs à part entière (APE) spécialistes en 34-Gériatrie par APE;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;0;1;0;2575
+AMELI;Frais de déplacement des médecins libéraux actifs à part entière (APE) spécialistes en 16- Chirurgie urologique par APE;1;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;2603
+AMELI;Frais de déplacement des médecins libéraux actifs à part entière (APE) spécialistes en TOTAL CHIRURGIE y compris 10,16,41  (43, 44, 46, 47, 48, 49, 04, 10, 16, 41) par APE;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;0;1;0;2605
+AMELI;Frais de déplacement des médecins libéraux actifs à part entière (APE) spécialistes en TOTAL STOMATOLOGIE  (45, 18) par APE;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;2631
+AMELI;Frais de déplacement des médecins libéraux actifs à part entière (APE) spécialistes en 33- Psychiatrie par APE;1;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;0;1;0;2635
+AMELI;Frais de déplacement des médecins libéraux actifs à part entière (APE) spécialistes en 42- Endocrinologie et métabolisme par APE;1;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;0;1;0;2640
+AMELI;Honoraires totaux des médecins libéraux actifs à part entière (APE) spécialistes en 20- Réanimation médicale par APE;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;2658
+AMELI;Honoraires totaux des médecins libéraux actifs à part entière (APE) spécialistes en 47- Chirurgie thoracique et cardio-vasculaire par APE;1;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;2664
+AMELI;Honoraires totaux des médecins libéraux actifs à part entière (APE) spécialistes en 08- Gastro-entérologie et hépatologie par APE;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;2683
+AMELI;Honoraires totaux des Orthophonistes libéraux actifs à part entière (APE) par APE;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;2719
+AMELI;Effectifs des médecins libéraux actifs à part entière (APE) spécialistes en 74- Oncologie radiothérapique par tranches d'honoraires;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;2740
+AMELI;Effectifs des médecins libéraux actifs à part entière (APE) spécialistes en 12- Pédiatrie par tranches d'honoraires;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;2756
+AMELI;Effectifs des médecins libéraux actifs à part entière (APE) spécialistes en TOTAL PEDIATRIE  (78, 12) par tranches d'honoraires;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;2757
+AMELI;Effectifs des médecins libéraux actifs à part entière (APE) spécialistes en 45- Chirurgie maxillo-faciale et stomatologie par tranches d'honoraires;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;2761
+AMELI;Effectifs des Chirurgiens-dentistes actifs à part entière (APE) par tranches d'honoraires;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;2776
+AMELI;Nombre moyen de patients par médecin libéral APE Pédiatre;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;2797
+AMELI;Nombre moyen de patients par médecin libéral APE Rhumatologue;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;2798
+AMELI;Nombre moyen de patients par orthophoniste libéral APE;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;2852
+AMELI;Effectif de personnes bénéficiant d’une prise en charge pour ALD - 6. Maladies chroniques actives du foie et cirrhoses;1;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;1;2873
+AMELI;Effectif de personnes bénéficiant d’une prise en charge pour ALD - 19. Néphropathie chronique grave et syndrome néphrotique primitif;1;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;1;2886
+AMELI;Effectif de personnes bénéficiant d’une prise en charge pour ALD - 29. Tuberculose active, lèpre;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;1;2896
+AMELI;Taux de prévalence des bénéficiaires pour ALD - 22. Polyarthrite rhumatoïde évolutive;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;1;2924
+AMELI; Âge moyen des  bénéficiaires pour ALD - 1. Accident vasculaire cérébral invalidant;1;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;1;2973
+AMELI; Âge moyen des  bénéficiaires pour ALD - 25. Sclérose en plaques;1;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;1;2997
+AMELI; Taux de décès des  bénéficiaires pour ALD - 19. Néphropathie chronique grave et syndrome néphrotique primitif;1;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;3026
+AMELI; Taux de décès des  bénéficiaires pour ALD - 22. Polyarthrite rhumatoïde évolutive;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;3029
+AMELI; Taux de décès des  bénéficiaires pour ALD - 99 Cause médicale d'ALD non précisée;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;3038
+AMELI;Part de personnes en ALD Maladies cardioneurovasculaires selon l'ancienneté de leur ALD;1;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;1;3084
+AMELI;Part de personnes en ALD 13.Maladie coronaire selon l'ancienneté de leur ALD;1;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;1;3085
+AMELI;Taux d'incidence pour l'ALD 25.Sclérose en plaques;1;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;3176
+AMELI;Taux d'incidence pour le total ALD30;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;3182
+AMELI;Part de femmes dans les nouveaux bénéficiaires pour l'ALD 27.Spondylarthrite grave;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;3209
+AMELI;Nombre de nouveaux bénéficiaires pour l'ALD 24. Rectocolite hémorragique et maladie de Crohn évolutives par sexe et tranche d'âge;1;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;1;3268
+AMELI;Effectifs de personnes prises en charge pour Accident vasculaire cérébral aigu par sexe et âge;1;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;3306
+AMELI;Effectifs de personnes prises en charge pour Epilepsie par sexe et âge;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;3349
+AMELI; Pourcentages de personnes prises en charge pour Syndrome coronaire aigu;1;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;3367
+AMELI; Pourcentages de personnes prises en charge pour Cancer du côlon actif;1;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;3385
+BALISES;Nombre de décès par Suicide;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;3510
+BALISES;Nombre de décès par Cancer des poumons;1;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;3513
+BALISES;Taux comparatif de décès par Maladies de la peau (pop. réf. Rhône-Alpes RP 2008);1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;3527
+BALISES;Taux comparatif de décès par Complications grossesse (pop. réf. France métro. RP 2008);1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;3552
+BALISES;Indice comparatif de décès par Affections en période périnatale (pop. réf. Rhône-Alpes RP 2008);1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;3582
+BALISES;Indice comparatif de décès par Maladies des organes des sens (pop. réf. Rhône-Alpes RP 2008);1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;3583
+BALISES;Nombre annuel d'admissions en ALD pour 14-Insuffisance respiratoire;1;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;1;3607
+BALISES;Nombre annuel d'admissions en ALD pour 29-Tuberculose active, lèpre;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;1;3622
+BALISES;Nombre annuel d'admissions en ALD pour Maladies neurologiques;1;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;1;3628
+BALISES;Taux comparatif annuel d'admissions en ALD pour Maladies neurologiques (pop. réf. France métro. RP 2008);1;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;1;3702
+BALISES;Indice comparatif annuel d'admission en ALD pour 19-Néphropathie, syndrome néphrotique (pop. réf. Rhône-Alpes RP 2008);1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;1;3723
+BALISES;Indice comparatif annuel d'admission en ALD pour 30-Tumeurs (pop. réf. Rhône-Alpes RP 2008);1;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;1;3734
+BALISES;Indice comparatif annuel d'admission en ALD pour Maladies neurologiques (pop. réf. Rhône-Alpes RP 2008);1;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;1;3739
+BALISES;Nombre de personnes prises en charge dans le cadre d'une ALD (prévalence) pour 25-Sclérose en plaques;1;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;1;3766
+BALISES;Taux comparatif annuel de prévalence pour ALD  25-Sclérose en plaques (pop. réf. Rhône-Alpes RP 2008);1;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;1;3797
+BALISES;Indice comparatif annuel de prévalence pour ALD  10-Hémoglobinopathies, hémolyses (pop. réf. Rhône-Alpes RP 2008);1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;1;3844
+BALISES;Données des CS8 dans la catégorie : Sexe - Taux de réponse (%);1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;3887
+BALISES;Nombre de prématurés (séjours);1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;3923
+BALISES;Nombre de tentatives de suicide hospitalisées ;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3926
+BALISES;Taux comparatif annuel de patients hospitalisés pour Maladie endocriniennes, nutritionnelles , …   (pop. réf. Rhône-Alpes RP 2008);1;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;3931
+BALISES;Taux comparatif annuel de patients hospitalisés pour Lésions traumatiques, empoisonnements, …   (pop. réf. Rhône-Alpes RP 2008);1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;3945
+BALISES;Taux comparatif annuel de patients hospitalisés pour Grossesse, accouchement et puerpéralité   (pop. réf. France métro. RP 2008);1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;3971
+BALISES;Taux bruts d'accouchements;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;4014
+BALISES;Taux bruts d'interruptions volontaires de grossesse;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;4015
+BALISES;Taux de prématurés;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;4016
+BALISES;Taux comparatif d' hospitalisation psychiatrique pour des Patients de 15 ans et plus vus à temps complet, partiel ou ambulatoire (pop. réf. Rhône-Alpes RP 2008);1;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;4022
+BALISES;Taux brut d'hospitalisation psychiatrique pour des Patients de moins de 15 ans vus exclusivement en ambulatoire;1;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;4023
+BALISES;Taux comparatif d' hospitalisation psychiatrique pour des Patients de 15 ans et plus vus exclusivement en ambulatoire (pop. réf. Rhône-Alpes RP 2008);1;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;4024
+BALISES;Indice comparatif d'hospitalisation psychiatrique pour des Patients de moins de 15 ans vus à temps complet, partiel ou ambulatoire (pop. réf. Rhône-Alpes RP 2008);1;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;4025
+BALISES;Indice comparatif d'hospitalisation psychiatrique pour des Patients de 15 ans et plus vus à temps complet, partiel ou ambulatoire (pop. réf. Rhône-Alpes RP 2008);1;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;4026
+BALISES;Indice comparatif d'hospitalisation psychiatrique pour des Patients de moins de 15 ans vus exclusivement en ambulatoire (pop. réf. Rhône-Alpes RP 2008);1;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;4027
+BALISES;Indice comparatif d'hospitalisation psychiatrique pour des Patients de 15 ans et plus vus exclusivement en ambulatoire (pop. réf. Rhône-Alpes RP 2008);1;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;4028
+BALISES;Nombre de Médecins généralistes;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;4029
+BALISES;Nombre de Pédiatres;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;4030
+BALISES;Nombre de Ophtalmologues;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;4031
+BALISES;Nombre de Sages-femmes;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;4032
+BALISES;Nombre de Psychiatres;1;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;4033
+BALISES;Nombre de Gynécologues;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;4034
+BALISES;Nombre de Dentistes;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;4035
+BALISES;Nombre de Infirmiers;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;4036
+BALISES;Nombre de Masseurs-kinésithérapeutes;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;4037
+BALISES;Nombre de Orthophonistes;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;4038
+BALISES;Nombre de patients assurés du régime général sous traitement Neuroleptique;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;4070
+BALISES;Nombre de patients assurés du régime général sous traitement Antidépresseur;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;4071
+BALISES;Nombre de patients assurés du régime général sous traitement Psychotrope (hors antidépresseurs et hors neuroleptiques);1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;4072
+BALISES;Nombre de patients assurés du régime général sous traitement Antiasthmatique;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;4073
+BALISES;Nombre de patients assurés du régime général sous traitement Antidiabétique;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;4074
+BALISES;Nombre de patients assurés du régime général sous traitement Insuline;1;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;4075
+BALISES;Nombre de patients assurés du régime général sous traitement Anti-hypertenseur;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;4076
+BALISES;Nombre de patients assurés du régime général sous traitement Anti-allergique;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;4077
+BALISES;Taux comparatif annuel patients assurés du régime général de 65 ans et plus sous traitement Anti-alzheimer (pop. réf. Rhône-Alpes RP 2008);1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;4078
+BALISES;Nombre de patients de 65 ans et plus vaccinés de 2010 à 2013;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4112
+BALISES;Taux comparatif annuel de personnes de 65 ans et plus vaccinées en 2013 (pop. réf. Rhône-Alpes RP 2008);1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;4113
+BALISES;Indice comparatif annuel de personnes de 65 ans et plus vaccinées (pop. réf. Rhône-Alpes RP 2008);1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;4114
+BALISES;Taux brut annuel de personnes de 65 ans et plus vaccinées;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4115
+BALISES;Densité de population;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;4174
+BALISES;"Part des 15 ans ou plus ""Artisans, commerçants, chefs d'entreprise""";1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;4211
+BALISES;Taux de chômage (au recensement);1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;4225
+BALISES;Effectif de personnes couvertes par le RSA;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;4234
+BALISES;Part des foyers fiscaux non imposables;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;4247
+BALISES;Effectif de gynécologues libéraux;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;4260
+BALISES;part des ophtalmologues libéraux de plus de 55 ans ;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;4266
+BALISES;Part des orthophonistes libéraux en secteur 2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;4295
+BALISES;Nombre de consultations chez un médecin généraliste (régime général);1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;4323
+BALISES;Taux brut de consultations chez un médecin généraliste (régime général);1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;4324
+Observatoire des fragilités Grand Nord;Fragilité socio économique 55 ans et plus (IR);1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;4430
+Observatoire des fragilités Grand Nord;Fragilité socio économique 55 ans et plus (RG);1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;4431
+Observatoire des fragilités Grand Nord;Nombre d'assurés et conjoints de 55 ans et plus sans recours aux soins 12m (MSA);1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;4450
+Observatoire des fragilités Grand Nord;Nombre de bénéficiaires en ALD (RG);1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;1;0;1;4461
+Observatoire des fragilités Grand Nord;Nombre de personnes de plus de 60 ans (INSEE);1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;4479
+Observatoire des fragilités Grand Nord;Nombre de retraités bénéficiaires d'une pens. ex-inval et au titre de l'inapt. (MSA);1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1;4495
+Observatoire des fragilités Grand Nord;Part des personnes de plus de 60 ans (INSEE);1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;4549
+Observatoire des fragilités Grand Sud;Nombre de seniors bénéficiant de la CMU-C du régime général selon la classe d'âge;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;4588
+Observatoire des fragilités Grand Sud;Part des seniors bénéficiant de la CMU-C du régime général selon la classe d'âge;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;4589
+Observatoire des fragilités Grand Sud;Nombre de retraités du régime général bénéficiaires d'une pension d'inaptitude ou assimilée selon la classe d'âge;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;4594
+Observatoire des fragilités Grand Sud;Part des retraités du régime général bénéficiaires d'une pension d'inaptitude ou assimilée selon la classe d'âge;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;4595
+Observatoire des fragilités Grand Sud;Nombre de seniors non-retraités bénéficiaires d'une pension d'invalidité du régime général selon la classe d'âge;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;4596
+Observatoire des fragilités Grand Sud;Part des seniors non-retraités bénéficiaires d'une pension d'invalidité du régime général selon la classe d'âge;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;4597
+Observatoire des fragilités Grand Sud;Nombre de seniors du régime général sans recours aux soins dans les 12 derniers mois selon la classe d'âge;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;4600
+Observatoire des fragilités Grand Sud;Part des seniors du régime général sans recours aux soins dans les 12 derniers mois selon la classe d'âge;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;4601
+Observatoire des fragilités Grand Sud;Nombre de seniors du régime général en ALD selon la classe d'âge;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;1;4604
+Observatoire des fragilités Grand Sud;Part des seniors du régime général en ALD selon la classe d'âge;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;1;0;1;4605
+Observatoire des fragilités Grand Sud;Score moyen de la fragilité sociale des retraités du régime général selon la classe d'âge;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;4607
+Observatoire des fragilités Grand Sud;Nombre de retraités de l'interrégime selon la classe d'âge;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4609
+Observatoire des fragilités Grand Sud;Age moyen de prise de la retraite à l'interrégime selon la classe d'âge;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;4611
+Observatoire des fragilités Grand Sud;Nombre de retraités bénéficiaires du minimum vieillesse et/ou d’un complément de retraite de l'interrégime selon la classe d'âge;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4612
+Observatoire des fragilités Grand Sud;Nombre de retraités exonérés de la CSG de l'interrégime selon la classe d'âge;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4614
+Observatoire des fragilités Grand Sud;Part des retraités exonérés de la CSG de l'interrégime selon la classe d'âge;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4615
+Observatoire des fragilités Grand Sud;Nombre de seniors bénéficiant de la CMUC - interrégime selon la classe d'âge;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;1;0;0;4616
+Observatoire des fragilités Grand Sud;Part des seniors bénéficiant de la CMUC - interrégime selon la classe d'âge;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;1;0;0;4617
+Observatoire des fragilités Grand Sud;Nombre de bénéficiaires d’une pension de réversion de l'interrégime selon la classe d'âge;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;4618
+Observatoire des fragilités Grand Sud;Part des bénéficiaires d’une pension de réversion de l'interrégime selon la classe d'âge;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;4619
+Observatoire des fragilités Grand Sud;Nombre total des retraités bénéficiaires d'une pension ex invalide au titre de l'inaptitude de l'interrégime selon la classe d'âge;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;4620
+Observatoire des fragilités Grand Sud;Part des retraités bénéficiaires d'une pension ex invalide au titre de l'inaptitude de l'interrégime selon la classe d'âge;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;4621
+Observatoire des fragilités Grand Sud;Nombre de seniors de l'interrégime bénéficiaires d'une pension d'invalidité  selon la classe d'âge;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;4622
+Observatoire des fragilités Grand Sud;Part des seniors de l'interrégime bénéficiaires d'une pension d'invalidité  selon la classe d'âge;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;4623
+Observatoire des fragilités Grand Sud;Nombre de retraités bénéficiaires de la majoration tierce personne de l'interrégime selon la classe d'âge;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4624
+Observatoire des fragilités Grand Sud;Part des retraités bénéficiaires de la majoration tierce personne de l'interrégime selon la classe d'âge;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;4625
+Observatoire des fragilités Grand Sud;Nombre de seniors sans recours aux soins dans les 12 derniers mois de l'interrégime selon la classe d'âge;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4626
+Observatoire des fragilités Grand Sud;Part des seniors sans recours aux soins dans les 12 derniers mois de l'interrégime selon la classe d'âge;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4627
+Observatoire des fragilités Grand Sud;Nombre de seniors sans médecin traitant de l'interrégime selon la classe d'âge;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4628
+Observatoire des fragilités Grand Sud;Part des seniors sans médecin traitant de l'interrégime selon la classe d'âge;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4629
+Observatoire des fragilités Grand Sud;Nombre de seniors hospitalisés dans le privé au cours des 12 derniers mois - interrégime selon la classe d'âge;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;4630
+Observatoire des fragilités Grand Sud;Part des seniors hospitalisés dans le privé au cours des 12 derniers mois de l'interrégime selon la classe d'âge;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;4631
+Observatoire des fragilités Grand Sud;Nombre de seniors en ALD de l'interrégime selon la classe d'âge;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;1;4632
+Observatoire des fragilités Grand Sud;Part des seniors en ALD de l'interrégime selon la classe d'âge;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;1;4633
+Observatoire des fragilités Grand Sud;Nombre de retraités à risque de fragilité de l'interrégime selon la classe d'âge;1;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4635
+Observatoire des fragilités Grand Sud;Nombre de seniors en ALD de la MSA selon la classe d'âge;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;1;4657
+Observatoire des fragilités Grand Sud;Part des seniors en ALD de la MSA selon la classe d'âge;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;1;4658
+Observatoire des fragilités Grand Sud;Mémoire-  MSA - Nombre d'actions selon le type de public;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;4667
+Observatoire des fragilités Grand Sud;Alimentation/ Nutrition- RSI - Nombre d'actions selon le type de public;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4672
+Observatoire des fragilités Grand Sud;Sécurité routière selon le type de financeur;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4716
+Observatoire des fragilités Grand Sud;Nombre d'assurés sociaux sans médecin traitant déclaré du régime général selon la classe d'âge;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4727
+Observatoire des fragilités Grand Sud;Nombre d'assurés bénéficiaires de la CMU-C du régime général selon la classe d'âge;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;4729
+Observatoire des fragilités Grand Sud;Part des assurés bénéficiaires de la CMU-C du régime général selon la classe d'âge;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;4730
+Observatoire des fragilités Grand Sud;Nombre d'assurés du régime général bénéficiaires de l’ACS selon la classe d'âge;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;1;0;0;4731
+Observatoire des fragilités Grand Sud;Part des assurés du régime général bénéficiaires de l’ACS selon la classe d'âge;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;1;0;0;4732
+Observatoire des fragilités Grand Sud;Nombre d'assurés du régime général n’ayant pas eu une consultation de généraliste sur les 24 derniers mois selon la classe d'âge;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;4735
+Observatoire des fragilités Grand Sud;Part des assurés du régime général n’ayant pas eu une consultation de généraliste sur les 24 derniers mois selon la classe d'âge;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;4736
+Observatoire des fragilités Grand Sud;Nombre d’assurés du régime général sans recours aux soins au cours des 24 derniers mois selon la classe d'âge;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;4737
+Observatoire des fragilités Grand Sud;Part des assurés du régime général sans recours aux soins au cours des 24 derniers mois selon la classe d'âge;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;4738
+Observatoire des fragilités Grand Sud;Part des salariés, par lieu de travail, travaillant dans le secteur du bâtiment et de l’industrie;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;4742
+Observatoire des fragilités Grand Sud;Nombre de bénéficiaires d'une pension d'invalidité du régime général selon la classe d'âge;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;4743
+Observatoire des fragilités Grand Sud;Part des bénéficiaires du régime générald'une pension d'invalidité selon la classe d'âge;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;4744
+Observatoire des fragilités Grand Sud;Nombre de bénéficiaires d'un versement de pension d'invalidité avec ASI du régime général selon la classe d'âge;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;4745
+Observatoire des fragilités Grand Sud;Part des bénéficiaires d'un versement de pension d'invalidité avec ASI du régime général selon la classe d'âge;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;4746
+Observatoire des fragilités Grand Sud;Nombre de bénéficiaires d'un versement de pension d'invalidité 1ère catégorie du régime général selon la classe d'âge;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;4747
+Observatoire des fragilités Grand Sud;Part des bénéficiaires d'une pension d'invalidité 1ère catégorie du régime général selon la classe d'âge;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;4748
+Observatoire des fragilités Grand Sud;Nombre de bénéficiaires d'une pension d'invalidité du régime général selon la classe d'âge;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;4749
+Observatoire des fragilités Grand Sud;Part des bénéficiaires d'une pension d'invalidité du régime général selon la classe d'âge;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;4750
+Observatoire des fragilités Grand Sud;Nombre de bénéficiaires d'une pension d'invalidité avec ASI du régime général selon la classe d'âge;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;4751
+Observatoire des fragilités Grand Sud;Part des bénéficiaires d'une pension d'invalidité avec ASI du régime général selon la classe d'âge;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;4752
+Observatoire des fragilités Grand Sud;Nombre de bénéficiaires d'une pension d'invalidité 1ère catégorie du régime général selon la classe d'âge;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;4753
+Observatoire des fragilités Grand Sud;Part des bénéficiaires d'une pension d'invalidité 1ère catégorie du régime général selon la classe d'âge;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;4754
+Observatoire des fragilités Grand Sud;Nombre de bénéficiaires sans médecin traitant déclaré du régime général selon la classe d'âge;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;4755
+Observatoire des fragilités Grand Sud;Nombre de bénéficiaires de la CMU-C du régime général selon la classe d'âge;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;4757
+Observatoire des fragilités Grand Sud;Part des bénéficiaires de la CMU-C du régime général selon la classe d'âge;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;4758
+Observatoire des fragilités Grand Sud;Nombre de bénéficiaires de l’ACS du régime général selon la classe d'âge;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;4759
+Observatoire des fragilités Grand Sud;Part des bénéficiaires de l’ACS du régime général selon la classe d'âge;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;4760
+Observatoire des fragilités Grand Sud;Nombre de bénéficiaires en affection de longue durée (ALD) du régime général selon la classe d'âge;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;1;4761
+Observatoire des fragilités Grand Sud;Part des bénéficiaires en affection de longue durée (ALD) du régime général selon la classe d'âge;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;1;4762
+Observatoire des fragilités Grand Sud;Nombre de bénéficiaires du régime général n’ayant pas eu une consultation de généraliste sur les 24 derniers mois selon la classe d'âge;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;4763
+Observatoire des fragilités Grand Sud;Part des bénéficiaires du régime général n’ayant pas eu une consultation de généraliste sur les 24 derniers mois selon la classe d'âge;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;4764
+Observatoire des fragilités Grand Sud;Nombre de bénéficiaires du régime général n’ayant pas eu une consultation de dentiste sur les 24 derniers mois selon la classe d'âge;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;4765
+Observatoire des fragilités Grand Sud;Part des bénéficiaires du régime général n’ayant pas eu une consultation de dentiste sur les 24 derniers mois selon la classe d'âge;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4766
+Observatoire des fragilités Grand Sud;Nombre de bénéficiaires sans recours aux soins au cours des 24 derniers mois du régime général selon la classe d'âge;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;4767
+Observatoire des fragilités Grand Sud;Part des bénéficiaires sans recours aux soins au cours des 24 derniers mois du régime général selon la classe d'âge;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;4768
+Observatoire des fragilités Grand Sud;Nombre de bénéficiaires du régime général de 55 ans et plus sans recours aux soins au cours des 12 derniers mois selon la classe d'âge;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;4769
+Observatoire des fragilités Grand Sud;Part des bénéficiaires du régime général de 55 ans et plus sans recours aux soins au cours des 12 derniers mois selon la classe d'âge;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;4770
+Observatoire des fragilités Grand Sud;Nombre de bénéficiaires femmes du régime général sans consultation chez un gynécologue sur les 24 derniers mois selon la classe d'âge;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;4771
+Observatoire des fragilités Grand Sud;Part des bénéficiaires femmes du régime général sans consultation chez un gynécologue sur les 24 derniers mois selon la classe d'âge;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;4772
+Observatoire des fragilités Grand Sud;Nombre de médecins généralistes;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;4787
+C@rtosanté;Nombre de CSIP (Centres de soins infirmiers ou polyvalents);1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;4842
+C@rtosanté;Nombre de masseurs-kinésithérapeutes actifs;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;4856
+C@rtosanté;Part des actes consommés auprès des masseurs-kinésithérapeutes de la commune par rapport à la consommation totale (consommation intra-communale);1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;4872
+C@rtosanté;Nombre de bénéficiaires de soins dentaires par habitant;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;4880
+C@rtosanté;Coefficient total d'actes de prothèse dentaire (SPR) produits;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;4888
+Base CépiDc;Effectif de décès annuel par Maladies infectieuses et parasitaires et par sous-chapitre, selon le sexe et la classe d'âge;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;4946
+Base CépiDc;Effectif de décès annuel par Maladies du système ostéo-articulaire, des muscles et du tissu conjonctif et par sous-chapitre, selon le sexe et la classe d'âge;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;4956
+Base CépiDc;Taux brut de décès annuel Toutes causes confondues par  sexe et classe d'âge;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;4963
+Base CépiDc;Effectif moyens de décès sur 3 ans par Tumeurs et par sous-chapitre, selon le sexe;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;4983
+Base CépiDc;Taux standardisé de décès par Troubles mentaux et du comportementpar sexe, selon la population de référence IARC76EUR;1;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;5040
+Base CépiDc;Part des décès par Maladies de l'appareil digestif par rapport à la mortalité générale chez les femmes;1;0;0;0;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;5095
+Base CépiDc;Part des décès par Maladies infectieuses et parasitaires par âge;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;5104
+Base CépiDc;Indice de surmortalité masculine Causes externes de blessures et d'empoisonnement selon la population de référence RP2006;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;5138
+Base CépiDc;Indice de surmortalité masculine Maladies endocriniennes, nutritionnelles et métaboliques selon la population de référence IARC76EUR;1;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;5161
+Dépistage organisé cancers;Taux d'exclusion brut par tranche d'âge, chez les femmes;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;5205
+Dépistage organisé cancers;Nombre de personnes ayant un test positif, par âge et par sexe;1;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0;5219
+Dépistage organisé cancers;Nombre de personnes ayant au moins un adénome avancé détecté (définition 3 : Nombre d'adénomes supérieur ou égal à 3 OU taille supérieure ou égale à 10 mm OU dysplasie de haut grade), par âge et par sexe;1;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;5253
+Dépistage organisé cancers;N10- Nombre de biopsies effectuées par tranche d'âge, selon antécédents;1;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5307
+Maladies à déclaration obligatoire;Proportion des cas d'infections invasives à méningocoques par groupe d'âge tous sexes confondus;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;5378
+Maladies à déclaration obligatoire;Cas de sida par classe d'âge et par année de diagnostic;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;5405
+Mortalité par traumatismes;Effectifs de mortalité par traumatismes;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;5426
+Mortalité par traumatismes;Taux spécifiques de mortalité par traumatismes, par tranche d'âge, chez les hommes;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;5428
+Mortalité par traumatismes;Taux spécifiques de mortalité par intoxications, par tranche d'âge, chez les hommes;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;5470
+Mortalité par traumatismes;Taux spécifiques de mortalité par traumatismes autres précisés, par tranche d'âge, chez les hommes;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;5477
+Mortalité par traumatismes;Taux spécifiques de mortalité par traumatismes autres précisés, par tranche d'âge, chez les femmes;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;5478
+Mortalité par traumatismes;Taux standardisés de mortalité par traumatismes autres non précisés, par tranche d'âge;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;5486
+Mortalité par traumatismes;Taux standardisés de mortalité par suicides, par tranche d'âge;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;5493
+Hospitalisations pour brûlures;Durée moyenne de séjour (DMS)  en centres de traitements des brûlés (CTB) pour brûlures peu graves;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;5524
+Etats financiers (ARS);Dépenses réalisées de prévention cancer;1;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5553
+Etats financiers (ARS);Versements réalisés aux établissements et services pour personnes handicapées par type de versement;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;5588
+Etats financiers (ARS);Dépenses réalisées pour les fonds d’aide aux services à domicile ;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;5597
+Etats financiers (ARS);Part des Dépenses réalisées des fonds de prévention de l'assurance maladie (hors contribution aux ARS) dans les Dépenses réalisées nationales;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;5609
+Etats financiers (ARS);Part des Dépenses réalisées pour MAIA dans les Dépenses réalisées nationales;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;5643
+Etats financiers (ARS);Variation annuelle des Dépenses réalisées de prévention des maladies chroniques et qualité de vie des malades dans les Dépenses réalisées nationales;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5652
+Etats financiers (ARS);Variation annuelle des Dépenses réalisées pour les fonds d’aide aux services à domicile  dans les Dépenses réalisées nationales;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;5697
+Etats financiers (ARS);Variation annuelle des Autres dépenses sanitaires et médico-sociales réalisées par type de dépense dans les dépenses nationales;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;5699
+Etats financiers (ARS);Dépenses réalisées des régimes d'assurance maladie (hors contribution aux dépenses des ESMS pour personnes âgées et handicapées);1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;5700
+Etats financiers (ARS);FIR - Dépenses réalisées au titre de la promotion de la santé, de la prévention des maladies, des traumatismes, du handicap et de la perte d’autonomie;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;5707
+Etats financiers (ARS);Dépenses réalisées totales des régimes d'assurance maladie et de la Caisse nationale de solidarité pour l'autonomie (CNSA) (décaissements) ;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;5712
+Etats financiers (ARS);Part des FIR - Dépenses réalisées au titre de l'organisation, la promotion de parcours de santé coordonnés ainsi que la qualité et la sécurité de l’offre sanitaire et médico-sociale dans les dépenses nationales;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;5727
+Etats financiers (ARS);Variation annuelle des Dépenses réalisées des activités de psychiatrie des établissements de santé par catégorie - hors FIR;1;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;5746
+Etats financiers (ARS);Dépenses remboursables en honoraires privés des auxiliaires médicaux - optique production de soins;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;5761
+HospiDiag;TDP = Score de conformité du dossier patient selon statut de l'établissement;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5822
+HospiDiag;Fonds de Roulement Net Global (FRNG) en jours de charges courantes Public et ESPIC;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;5874
+HospiDiag;Nombre d'ATU selon statut de l'établissement;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;5894
+HospiDiag;Niveau de la maternité selon statut de l'établissement;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;5919
+HospiDiag;Fonds de Roulement Net Global Public et ESPIC;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;5935
+HospiDiag;Trésorerie Public et ESPIC;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;5937
+HospiDiag;Recettes MIGAC Privé;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;5942
+HospiDiag;ETP médicaux selon statut de l'établissement;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;5956
+HospiDiag;Taux d'informatisation des résultats d'imagerie, de biologie et d'anatomo-pathologie selon statut de l'établissement;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;5976
+HospiDiag;Taux d'informatisation du DPII (Dossier patient informatisé et interopérable) et communication extérieure selon statut de l'établissement;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;5977
+HospiDiag;Taux d'informatisation de la prescription électronique alimentant le plan de soins selon statut de l'établissement;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;5978
+HospiDiag;Taux d'informatisation de la programmation des ressources et agenda du patient selon statut de l'établissement;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;5979
+HospiDiag;Taux d'informatisation du pilotage médico-économique selon statut de l'établissement;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;5980
+Indicateurs de l'INCa;Taux de réalisation d’au moins un frottis cervico-utérin ;1;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5982
+Indicateurs de l'INCa;Taux de réalisation d’au moins un frottis cervico-utérin ;1;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0;5985
+Indicateurs de l'INCa;Incidence estimée du cancer du Colon-rectum - Nombre de cas incidents annuels selon le sexe ;1;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;6008
+Indicateurs de l'INCa;Incidence estimée du cancer du Foie - Nombre de cas incidents annuels selon le sexe ;1;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;6011
+Indicateurs de l'INCa;Incidence estimée du cancer de la Thyroïde - Nombre de cas incidents annuels selon le sexe ;1;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;6024
+Indicateurs de l'INCa;Incidence estimée du cancer du Corps de l'utérus - Taux d'incidence standardisé (population mondiale) chez les femmes ;1;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;6028
+Indicateurs de l'INCa;Incidence estimée du cancer de la Thyroïde - Taux d'incidence standardisé (population mondiale) selon le sexe ;1;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;6043
+Indicateurs de l'INCa;Mortalité estimée du cancer du Foie - Taux de mortalité standardisé (population mondiale) selon le sexe ;1;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;6068
+Indicateurs de l'INCa;Incidence estimée du cancer Mélanome cutané - Nombre de cas incidents annuels par sexe et par classe d'âge ;1;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;6090
+Indicateurs de l'INCa;Mortalité estimée du cancer Mélanome cutané - Nombre de décès annuels par sexe et par classe d'âge ;1;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;6128
+Indicateurs de l'INCa;Nombre de cas incidents annuel projeté en 2015 du cancer de la Prostate chez les hommes et par classe d'âge;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;6198
+Indicateurs de l'INCa;Taux d'incidence standardisé (population mondiale) projeté en 2015 du cancer des Testicules chez les hommes et par classe d'âge;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;6221
+Indicateurs de l'INCa;Taux de mortalité standardisé (population mondiale) projeté en 2015 du cancer du  Colon-rectum par sexe et par classe d'âge;1;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;6244
+Indicateurs de l'INCa;Taux de mortalité standardisé (population mondiale) projeté en 2015 du cancer de la Prostate chez les hommes et par classe d'âge;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;6255
+Indicateurs de l'INCa;Prévalence totale du cancer de l'Estomac chez l'homme par classe d'âge ;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;6286
+Indicateurs de l'INCa;Prévalence totale du Mélanome de la peau chez l'homme par classe d'âge ;1;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;6294
+Indicateurs de l'INCa;Prévalence totale du Myélome chez l'homme par classe d'âge ;1;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;6295
+Indicateurs de l'INCa;Prévalence totale du cancer du Système nerveux central chez l'homme par classe d'âge ;1;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;6300
+Indicateurs de l'INCa;Prévalence partielle (à 1 an, 3 ans, 5 ans, 10 ans) du cancer du Leucémie aiguë chez la femme par classe d'âge ;1;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;6312
+Indicateurs de l'INCa;Prévalence partielle (à 1 an, 3 ans, 5 ans, 10 ans) du cancer du Estomac chez l'homme par classe d'âge ;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;6330
+Indicateurs de l'INCa;Survie nette (à 1 an, à 3 ans, à 5 ans) des patients diagnostiqués entre 2005 et 2010 pour un cancer du Sein;1;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;6369
+Indicateurs de l'INCa;Survie nette (à 1 an, à 3 ans, à 5 ans) standardisée des patients diagnostiqués entre 2005 et 2010 pour un cancer des Autres organes de l'appareil urinaire;1;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6391
+Indicateurs de l'INCa;Survie nette standardisée (à 1 an, à 3 ans, à 5 ans) des patients diagnostiqués entre 1989 et 2010 pour un cancer de l'Oesophage;1;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;6451
+Indicateurs de l'INCa;Survie nette standardisée (à 1 an, à 3 ans, à 5 ans) des patients diagnostiqués entre 1989 et 2010 pour un Lymphome de Hodgkin;1;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;6472
+Indicateurs de l'INCa;Survie observée (à 1 an, à 3 ans, à 5 ans) des patients diagnostiqués entre 1989 et 2010 pour un Lymphome de Hodgkin;1;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;6497
+Indicateurs de l'INCa;Nombre d'établissements de santé autorisés pour la pratique de la chimiothérapie, de la radiothérapie et de la chirurgie dans le traitement des cancers;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;6530
+Indicateurs de l'INCa;Nombre de radiophysiciens par classe d'âge;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;6547
+ODICER;Usage quotidien d'alcool à 17 ans - sex ratio;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;6729
+ODICER;Expérimentation d'ivresse alcoolique à 17 ans - évolution (garçons);1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;6753
+ODICER;Ivresses alcooliques régulières à 17 ans - évolution test;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;6780
+ODICER;Usage régulier d'alcool à 15-75 ans (hommes);1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;6840
+ODICER;Expérimentation de tabac à 17 ans - évolution test;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;6870
+ODICER;Usage quotidien de tabac à 17 ans - évolution test (garçons);1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;6900
+ODICER;Usage de tabac dans le mois à 15-75ans;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;6936
+ODICER;Usage actuel de tabac à 15-75 ans (hommes);1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;6937
+ODICER;Usage actuel de tabac à 15-75ans (filles);1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;6938
+ODICER;Usage quotidien de tabac à 15-75ans;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;6939
+ODICER;Usage quotidien de tabac à 15-75 ans (hommes);1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;6940
+ODICER;Usage quotidien de tabac à 15-75ans (filles);1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;6941
+ODICER;Usage occasionnel de tabac à 15-75ans;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;6942
+ODICER;Usage occasionnel de tabac à 15-75 ans (hommes);1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;6943
+ODICER;Usage occasionnel de tabac à 15-75ans (filles);1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;6944
+ODICER;Usage intensif de tabac à 15-75ans;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;6945
+ODICER;Usage intensif de tabac à 15-75 ans (hommes);1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;6946
+ODICER;Usage intensif de tabac à 15-75ans (filles);1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;6947
+ODICER;Expérimentation de cannabis à 17 ans - comparaison avec la métropole;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;6953
+ODICER;Expérimentation de cannabis à 17 ans (garçons) - comparaison avec la métropole;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;6955
+ODICER;Usage quotidien de cannabis à 17 ans (garçons);1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;7010
+ODICER;Usage quotidien de cannabis à 17 ans - comparaison  sexe;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;7021
+ODICER;Expérimentation de cannabis à 15-64 ans;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;7022
+ODICER;Expérimentation de cannabis à 15-64 ans (hommes);1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;7024
+ODICER;Usage de cannabis dans l'année à 15-64 ans;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;7025
+ODICER;Usage de cannabis dans l'année à 15-64 ans (hommes);1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;7027
+ODICER;Usage de cannabis dans le mois à 15-64 ans;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;7028
+ODICER;Usage de cannabis dans le mois à 15-64 ans (hommes);1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;7030
+ODICER;Usage régulier de cannabis à 15-64 ans;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;7031
+ODICER;Usage régulier de cannabis à 15-64 ans (hommes);1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;7033
+ODICER;Consultations en CSAPA pour 10 000 habitants de 20 à 39 ans - produits : opiacés / stimulants;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;1;0;0;0;7034
+ODICER;Expérimentation d'héroïne à 17 ans - évolution test;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;7100
+ODICER;Expérimentation d'amphétamines à 17 ans - évolution;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;7141
+ODICER;Expérimentation d'amphétamines à 17 ans - évolution test;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;7142
+ODICER;Expérimentation d'amphétamines à 17 ans - évolution test (garçons);1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;7144
+ODICER;Expérimentation d'amphétamines à 17 ans - évolution (filles);1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;7145
+ODICER;Expérimentation d'amphétamines à 17 ans - évolution test (filles);1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;7146
+ODICER;Expérimentation d'amphétamines à 17 ans - sex ratio;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;7147
+ODICER;Expérimentation de LSD à 17 ans - comparaison  sexe;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;7162
+ODICER;Expérimentation de poppers à 15-64 ans;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;7177
+ODICER;Expérimentation de poppers à 15-64 ans (hommes);1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;7179
+ODICER;Usage dans l'année de poppers à 15-64 ans;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;7180
+ODICER;Usage dans l'année de poppers à 15-64 ans (hommes);1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;7182
+ODICER;Expérimentation d'ecstasy à 15-64 ans;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;7183
+ODICER;Expérimentation d'ecstasy à 15-64 ans (hommes);1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;7185
+ODICER;Usage dans l'année d'ecstasy à 15-64 ans;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;7186
+ODICER;Usage dans l'année d'ecstasy à 15-64 ans (hommes);1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;7188
+ODICER;Expérimentation de cocaïne à 15-64 ans;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;7189
+ODICER;Expérimentation de cocaïne à 15-64 ans (hommes);1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;7191
+ODICER;Usage dans l'année de cocaïne à 15-64 ans;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;7192
+ODICER;Usage dans l'année de cocaïne à 15-64 ans (hommes);1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;7194
+ODICER;Expérimentation d'héroïne à 15-64 ans;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;7195
+ODICER;Expérimentation d'héroïne à 15-64 ans (hommes);1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;7197
+ODICER;Usage dans l'année d'héroïne à 15-64 ans;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;7198
+ODICER;Usage dans l'année d'héroïne à 15-64 ans (hommes);1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;7200
+ODICER;Expérimentation de produits à inhaler à 15-64 ans;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;7201
+ODICER;Expérimentation de produits à inhaler à 15-64 ans (hommes);1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;7203
+ODICER;Usage dans l'année de produits à inhaler à 15-64 ans;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;7204
+ODICER;Usage dans l'année de produits à inhaler à 15-64 ans (hommes);1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;7206
+ODICER;Expérimentation de champignons hallucinogènes à 15-64 ans;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;7207
+ODICER;Expérimentation de champignons hallucinogènes à 15-64 ans (hommes);1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;7209
+ODICER;Usage dans l'année de champignons hallucinogènes à 15-64 ans;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;7210
+ODICER;Usage dans l'année de champignons hallucinogènes à 15-64 ans (hommes);1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;7212
+ODICER;Expérimentation de crack à 15-64 ans;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;7225
+ODICER;Expérimentation de crack à 15-64 ans (hommes);1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;7227
+ODICER;Usage dans l'année de crack à 15-64 ans;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;7228
+ODICER;Usage dans l'année de crack à 15-64 ans (hommes);1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;7230
+ODICER;Expérimentation de médicaments psychotropes à 17 ans;1;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7231
+ODICER;Usage de médicaments psychotropes dans le mois à 17 ans;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;7245
+ODICER;Usage de médicaments psychotropes dans le mois à 17 ans (garçons) - comparaison métropole;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;7248
+ODICER;Usage de médicaments psychotropes dans le mois à 17 ans - évolution;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;7251
+ODICER;Usage de médicaments psychotropes dans le mois à 17 ans - évolution test;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;7252
+ODICER;Usage de médicaments psychotropes dans l'année à 17 ans - évolution;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;7265
+ODICER;Usage de médicaments psychotropes dans l'année à 17 ans - sexe ratio;1;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;7271
+ODICER;Usage de médicaments psychotropes dans l'année à 17 ans - comparaison sexe;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;7272
+ODICER;Expérimentation de tranquillisants à 17 ans - comparaison sexe;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;7300
+ODICER;Consultations en CSAPA (nombre total) - addictions sans substance;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;7330
+PQE Maladie;Dépenses de Médicaments par habitant;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;7342
+PQE Maladie;Part des Décès Toutes causes chez les hommes;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;7352
+PQE Maladie;Part des Décès par Tumeurs chez les femmes;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;7353
+PQE Maladie;Consommation moyenne remboursable par tête de soins de ville  par âge;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;7385
+PQE Maladie;Honoraires des médecins libéraux Chirurgiens par secteur de conventionnement;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;1;0;0;0;1;0;7398
+PQE Maladie;Répartition des médecins libéraux Omnipraticiens par secteur de conventionnement;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;7415
+PQE Maladie;Part des dépassements des médecins libéraux Spécialistes  par secteur de conventionnement;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;0;1;0;7426
+PQE Maladie;Nombre d’admissions en ALD 23 (Affection psychiatrique y compris maladie d'Alzheimer);1;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;1;7468
+PQE Maladie;Taux d’évolution annuel des admissions en ALD 8. Diabète;1;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;1;0;1;7482
+PQE Maladie;Taux d’évolution annuel des admissions en ALD 23 + 15 Affections psychiatriques (yc maladie d'Alzheimer);1;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;1;7483
+PQE Maladie;Reste à charge annuel moyen par ménage après AMO et AMC par décile de niveau de vie, sur leurs dépenses de santé;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;0;1;1;1;0;7529
+PQE Maladie;Taux de participation au dépistage organisé du cancer colorectal;1;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7551
+PQE Maladie;Economies liées aux fraudes et aux activités fautives détectées et stoppées (en millions d’euros);1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;7602
+PQE AT-MP;Répartition par poste des indemnités légales AT-MP accidents du travail, d’accidents de trajet et de maladies professionnelles versées par la CNAMTS;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;7606
+PQE AT-MP;Fréquence des accidents de trajet avec arrêt par secteur d’activité ;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;7615
+PQE AT-MP;Montants mensuels moyens de l’allocation de cessation anticipée d’activité des travailleurs de l’amiante ACAATA;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;7630
+PQE AT-MP;Nombre de reconnaissances de maladies professionnelles suite aux avis donnés par les CRRMP hors tableaux (alinéa 4);1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;1;7643
+PQE AT-MP;Part des montants récupérés dans le cadre des procédures de recours contre tiers dans le montant des dépenses par régime ;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;7650
+PQE Invalidité;Nombre de personnes vivant en logement ordinaire et ayant des incapacités par groupe de population et grande classe d'âge;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;7651
+PQE Invalidité;Écarts d'équipement interrégionaux et interdépartementaux en établissements et services médico-sociaux en nombre de places pour 1000 enfants;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;1;0;0;0;0;7688
+Scansanté;Nombre total de structures MS confondues pour enfants;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;7741
+Scansanté;Nombre places dédiées au handicap psychique dans l'ensemble des structures MS confondues pour enfants;1;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0;7761
+Scansanté;Nombre places dédiées au handicap psychique dans l'ensemble des toutes structures MS confondues pour adultes;1;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;7765
+Scansanté;PSY Nombre patients en soins sans consentement* ;1;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;7776
+Scansanté;MCO Nombre séjours - GHM en J ou T par sexe;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;7833
+Scansanté;MCO Durée moyenne de séjour Durée moyenne de séjour DMS par diagnostic associé du GHM / racine de GHM;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;7861
+Scansanté;MCO Nombre de séjours par acte classant du GHM /racine de GHM;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;7862
+Scansanté;MCO Part de séjours par acte classant du GHM /racine de GHM;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;7863
+Scansanté;MCO Durée moyenne de séjour Durée moyenne de séjour DMS par acte classant du GHM /racine de GHM;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;7864
+Scansanté;MCO Nombre de séjours par acte non classant du GHM /racine de GHM;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;7865
+Scansanté;SSR Nombre de RHA du groupe médico-économique GME par acte CSARR;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;7914
+Scansanté;MCO âge moyen des malades par période et type d'activité;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;7972
+Scansanté;SSR Age moyen ;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;7986
+Scansanté;SSR Nombre moy d'actes CSARR par journée;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;7989
+Scansanté;MCO Nombre de Séjours de la région;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;7998
+Scansanté;MCO Nombre de séjours sans nuitée selon les 25 premiers actes classants pour une racine de la spécialité;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;8050
+Scansanté;HAD Taux d'établissements d'HAD mettant en ouvre un dispositif de télésurveillance;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;8071
+Scansanté;MCO Accouchements totaux;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;8076
+Scansanté;MCO Dont accouchements a domicile;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;8078
+Scansanté;MCO Naissances totales (vivantes ou mort-nes);1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;8079
+Scansanté;MCO Naissances totales estimees (vivantes ou mort-nes);1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;8080
+Scansanté;MCO Naissances vivantes;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;8081
+Scansanté;MCO Mort-nes;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;8082
+Scansanté;MCO Mort-nes estimes;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;8083
+Scansanté;MCO Accouchements multiples;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;8084
+Scansanté;MCO Dont accouchements gémellaires;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;8085
+Scansanté;MCO Dont accouchements multiples plus que gémellaires;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;8086
+Scansanté;MCO Taux d'accouchements multiples;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;8087
+Scansanté;MCO Taux d'accouchements gémellaires;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;8088
+Scansanté;MCO Taux d'accouchements multiples plus que gémellaires;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;8089
+Scansanté;MCO Description de l'Age maternel à l'accouchement;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;8090
+Scansanté;MCO Répartition des accouchements par classe d'âge;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;8091
+Scansanté;MCO Taux d'accouchement de mères < 20 ans;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;8092
+Scansanté;MCO Taux d'accouchement de mères ? 35 ans;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;8093
+Scansanté;MCO Naissances prématurées;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;8094
+Scansanté;MCO Taux de prématurité pour les naissances totales;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;8095
+Scansanté;MCO Naissances vivantes prématurées;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;8096
+Scansanté;MCO Taux de prématurité pour les naissances vivantes;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;8097
+Scansanté;MCO Morts-nés prématurés;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;8098
+Scansanté;MCO Taux de prématurité pour les morts -nés;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;8099
+Scansanté;MCO Taux de Faible poids de naissance pour les naissances totales;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;8100
+Scansanté;MCO Taux de Faible poids de naissance pour les naissances vivantes;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;8101
+Scansanté;MCO Taux de Faible poids de naissance pour les morts-nés;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;8102
+Scansanté;MCO Accouchements par voie basse;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;8103
+Scansanté;MCO Accouchements voie basse spontanée;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;8104
+Scansanté;MCO Accouchements voie basse assistée;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;8105
+Scansanté;MCO Taux d'accouchements voie basse;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;8106
+Scansanté;MCO Taux d'accouchements voie basse spontanée;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;8107
+Scansanté;MCO Taux de voie basse assistée;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;8108
+Scansanté;MCO Césariennes;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;8109
+Scansanté;MCO césariennes programmées;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;8110
+Scansanté;MCO césariennes en urgence ou pendant le travail;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;8111
+Scansanté;MCO Taux de césariennes programmées à terme (>=37SA) selon les classes d'âge gestationnel;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;8112
+Scansanté;MCO Taux de naissance en maternité de type III des nouveau-nés selon seuil âge gestationnel ou poids de naissance (AG<32SA (OU AG <31SA) OU PN<1500g);1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;8114
+Scansanté;MCO Taux de mortinatalité hospitalière estimée pour 1000 naissances par type de maternité;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;8115
+Scansanté;MCO Naissances totales estimées (vivantes ou mort-nés);1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;8116
+Scansanté;MCO Nombre de mort-nés estimés selon type de mortalité;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;8117
+Scansanté;MCO Taux de mortinatalité estimée pour 1000 naissances selon type de mortalité;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;8118
+Scansanté;MCO Nombre de mort-nés estimés par classes d'âge gestationnel;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;8119
+Scansanté;MCO Taux de mortinatalité estimée pour 1000 naissances par classes d'âge gestationnel;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;8120
+Scansanté;MCO Taux de mortinatalité hospitalière pour 1000 naissances par type de maternité;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;8121
+Scansanté;MCO Naissances totales (vivantes ou mort-nés);1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;8122
+Scansanté;MCO Nombre de mort-nés par type de mortalité;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;8123
+Scansanté;MCO Taux de mortinatalité hospitalière pour 1000 naissances par type de mortalité;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;8124
+Scansanté;MCO Nombre de mort-nés par classes d'âge gestationnel;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;8125
+Scansanté;MCO Taux de mortinatalité pour 1000 naissances par classes d'âge gestationnel;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;8126
+Scansanté;MCO Nombre de mort-nés par classes de poids de naissance;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;8127
+Scansanté;MCO Taux de mortinatalité pour 1000 naissances par classes de poids de naissance;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;8128
+Scansanté;MCO Nombre de naissances vivantes;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;8131
+Scansanté;MCO Nombre de décès néonatals précoces par classes d'âge gestationnel;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;8134
+Scansanté;MCO Taux de mortalité périnatale hospitalière pour 1000 naissances par type de maternité;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;8138
+Scansanté;MCO Nombre total de Mort-nés et décès précoces;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;8139
+Scansanté;MCO Taux global de mortalité périnatale pour 1000 naissances;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;8140
+Scansanté;MCO Mortalité périnatale par classes d'âge gestationnel;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;8141
+Scansanté;MCO Taux de mortalité périnatale pour 1000 naissances par classes d'âge gestationnel;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;8142
+Scansanté;MCO Mortalité périnatale par classes de poids de naissance;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;8143
+Scansanté;MCO Taux de mortalité périnatale pour 1000 naissances par classes de poids de naissance;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;8144
+Scansanté;Nombre d'établissements avec une autorisation pour sevrage complexe;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;8151
+Scansanté;Nombre d'établissements avec une activité de sevrage en hospitalisation;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;8152
+Scansanté;Nombre d'établissements avec une activité de sevrage en hospitalisation pour 100 000 habitants;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;8153
+Scansanté;Pourcentage d'établissements avec une activité de psychiatrie et une activité de sevrage en hospitalisation;1;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8154
+Scansanté;Nombre de patients pour lesquels une équipe de liaison en addictologie a été sollicitée au cours de l'année;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;8159
+Scansanté;Nombre de personnes différentes ayant bénéficié au moins une fois dans l'année d'une consultation d'addictologie;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;8160
+Scansanté;Nombre total de patients (ANO) pris en charge pour addiction en hospitalisation;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;8161
+Scansanté;Nombre de patients (ANO) hospitalisés pour addiction uniquement dans un des champs MCO, SSR ou Psychiatrie;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;8162
+Scansanté;Taux de recours des patients aux établissements de la zone;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;8163
+Scansanté;Nombre patients (ANO) PEC pour addiction en psychiatrie décliné par mode de prise en charge;1;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;8164
+Scansanté;Nombre total de patients (ANO) PEC pour addiction en hospitalisation dans plusieurs champs;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;8165
+Scansanté;Taux brut de recours PSY;1;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;8191
+Scansanté;Nombre de nuités potentielles selon la sélection des GHM;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;8214
+Scansanté;Taux d'attractivité intra-régional MCO d'une région ou un territoire de santé;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;0;1;0;0;0;8226
+Scansanté;Taux de fuite inter-régional MCO d'une région ou un territoire de santé;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;1;0;0;0;8229
+Scansanté;Taux de fuite intra-régional HAD du territoire de santé;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;1;0;0;0;1;0;0;0;8243
+Scansanté;Taux d'attractivité intra-régional PSY du territoire de santé;1;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;1;0;1;0;0;0;8263
+Scansanté;MCO Part des postes détaillés dans le poste logistique et gestion générale;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;8279
+Scansanté;Montant facturé des molécules onéreuses (MO) par code UCD secteur Ex-OQN - HAD ;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;8305
+Scansanté;MCO - Nombre d'établissements implantés par territoire de santé;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;8341
+Scansanté;HAD - Evolution nombre de journées par classe d'âge des patients;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;8363
+Scansanté;SSR - Part en nombre de journées par type d'hospitalisation;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;8391
+Scansanté;SSR - Nombre de journées par type d'hospitalisation;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;8398
+Scansanté;SSR - Part en nombre de journées par type d'hospitalisation;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;8399
+Scansanté;PSY - Part en journées d'hospitalisation par classe d'âge des patients;1;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;8404
+Scansanté;PSY - Evolution du nombre d'actes en ambulatoire par classe d'âge des patients;1;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;8406
+Scansanté;PSY - Evolution du nombre de journées d'hospitalisation par statut juridique;1;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;8416
+Scansanté;MCO - Evolution en nombre de séjours par type d'hospitalisation selon le type de secteur (ensemble,ex-DG, ex-OQN);1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;8436
+Scansanté;MCO - Evolution effet structure par catégorie d'établissement selon le type de secteur (ex-DG, ex-OQN);1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;8449
+Scansanté;MCO - Evolution en volume économique par catégorie d'établissement et type d'hospitalisation selon le type de secteur (ex-DG, ex-OQN);1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;8459
+Scansanté;MCO - Evolution effet structure par GHM selon le type de secteur (ex-DG, ex-OQN);1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;8538
+Scansanté;MCO - Volume économique par type de séances selon le type de secteur (ensemble,ex-DG, ex-OQN);1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;8543
+Scansanté;HAD - Durée moyenne de séjour (Durée moyenne de séjour DMS) en établissements sociaux et médico-sociaux (EMS) selon type EHPAD et non EHPAD;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;8580
+Scansanté;HAD - Nombre de journées de présence par secteur de financement (ex-DG, ex OQN);1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;8645
+Scansanté;HAD - Part en patients par mode d'entrée;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;8676
+Scansanté;HAD - Evolution en nombre de journées de présence par mention spécialisée;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;8706
+Scansanté;HAD - Nombre de journées de présence en hospitalisation à temps partiel par groupe nosologique;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;8730
+Scansanté;HAD - Nombre de journées de présence en hospitalisation complète pour les 20 premières racines;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;8742
+Scansanté;HAD - Nombre de journées de présence en hospitalisation complète pour les 20 premiers GME en hospitalisation à temps partiel;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;8763
+Scansanté;PSY - Part en patients par statut juridique;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;8780
+Scansanté;PSY - Nombre moyen de journées par patient par secteur de financement (ex-DG, ex OQN) pour l'activité en hospitalisation complète;1;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;8788
+Scansanté;PSY - Part en nombre de journées pour les soins sans consentement en hospitalisation à temps plein;1;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;8833
+Scansanté;PSY - Nombre de patients par sexe pour l'activité en ambulatoire (secteur DAF) (IPP-finess);1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;8863
+Scansanté;"PSY - Part en patients par sexe pour l'activité en ambulatoire (secteur DAF) 
+";1;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;8864
+ScopeSante;Evaluation du nombre de réunion de concertation pluridisciplinaire en cancérologie;1;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8915
+ScopeSante;VEILLE SANITAIRE;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;8952
+ScopeSante;CONFIDENTIALITÉ DES INFORMATIONS RELATIVES AU PATIENT EN HAD;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;8973
+ScopeSante;CONFIDENTIALITÉ DES INFORMATIONS RELATIVES AU PATIENT EN MCO;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;8974
+ScopeSante;CONFIDENTIALITÉ DES INFORMATIONS RELATIVES AU PATIENT EN SSR;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;8975
+ScopeSante;CONFIDENTIALITÉ DES INFORMATIONS RELATIVES AU PATIENT EN USLD;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;8976
+ScopeSante;CONFIDENTIALITÉ DES INFORMATIONS RELATIVES AU PATIENT EN SM;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;8977
+ScopeSante;MESURES DE RESTRICTION DE LIBERTÉ EN HAD;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;8984
+ScopeSante;INFORMATION DU PATIENT SUR SON ÉTAT DE SANTÉ EN HAD;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;8988
+ScopeSante;INFORMATION DU PATIENT SUR SON ÉTAT DE SANTÉ EN MCO;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;8989
+ScopeSante;INFORMATION DU PATIENT SUR SON ÉTAT DE SANTÉ EN SSR;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;8990
+ScopeSante;INFORMATION DU PATIENT SUR SON ÉTAT DE SANTÉ EN USLD;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;8991
+ScopeSante;INFORMATION DU PATIENT SUR SON ÉTAT DE SANTÉ EN SM;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;8992
+ScopeSante;DOMMAGE LIÉ AUX SOINS EN SM;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;9002
+ScopeSante;MÉDICAMENTS CHEZ LA PERSONNE ÂGÉE;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;9040
+ScopeSante;MANAGEMENT DU SYSTÈME D’INFORMATION;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;9056
+ScopeSante;SÉCURITÉ DU SYSTÈME D’INFORMATION;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;9057
+ScopeSante;Nombre de séjours en hospitalisation complète  en Médecine;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;9077
+ScopeSante;Nombre de séjours en hospitalisation complète  en Chirurgie;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;9081
+ScopeSante;Nombre de lits en hospitalisation complète  en Santé mentale - enfants;1;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;9100
+ScopeSante;Nombre annuel de séjours  pour Accident vasculaire cérébral;1;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;9116
+ScopeSante;Age moyen des patients (en années)  pour Appendicectomie;1;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;9171
+ScopeSante;Age moyen des patients (en années)  pour Ulcères, hémorragies digestives;1;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;9184
+ScopeSante;Taux de chirurgie ambulatoire  pour Chirurgie testiculaire;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;9189
+ScopeSante;Durée moyenne de séjour (en jours)  pour Traumatismes multiples ou complexes graves;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;9203
+ScopeSante;Age moyen des patients (en années)  pour Maladies immunitaires, du sang, des organes hématopoïétiques;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;9210
+Score Santé;Nombre d’hommes de 15 ans ou plus selon leur état matrimonial;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;9235
+Score Santé;Nombre de femmes de 15 ans ou plus selon leur état matrimonial;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;9236
+Score Santé;Répartition en pourcentage de la population par nationalité;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;9239
+Score Santé;Nombre de naissances par grandes tranches d'âge des mères;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;9244
+Score Santé;Nombre de places d’hébergement social selon le type d’établissements;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;9273
+Score Santé;Taux d'activité féminine par tranches d'âge;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;9288
+Score Santé;Nombre de foyers fiscaux selon le type d'imposition;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;9307
+Score Santé;Taux de personnes couvertes par le RSA non majoré selon la composante;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;9334
+Score Santé;Taux d’enfants confiés à l’ASE ;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;9351
+Score Santé;Nombre de bénéficiaires de l’aide ménagère à domicile par type de prise en charge;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;9357
+Score Santé;Nombre de places alternatives à l'accueil permanent pour personnes âgées par type d'accueil;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;9375
+Score Santé;Taux de mortalité générale chez les femmes par classes d'âge quinquennal;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;9399
+Score Santé;Espérance de vie à la naissance chez les hommes;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;9409
+Score Santé;Taux de variation annuel moyen de l'espérance de vie à la naissance chez les hommes;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;9411
+Score Santé;Nombre de décès prématurés par sida chez les femmes ;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;9457
+Score Santé;Taux de variation annuel moyen du taux standardisé de mortalité prématurée par alcoolisme (pop. réf. RP 2006) chez les hommes;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;1;9502
+Score Santé;Taux de variation annuel moyen du taux standardisé de mortalité prématurée par sida (pop. réf. RP 2006) chez les hommes;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;9504
+Score Santé;Taux standardisé de mortalité prématurée par maladies de l'appareil circulatoire (pop. réf. RP 2006) chez les femmes;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;9512
+Score Santé;Taux de variation annuel moyen du taux standardisé de mortalité prématurée par alcoolisme (pop. réf. PSE 2013) tous sexes confondus;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;1;9549
+Score Santé;Indice comparatif de mortalité prématurée chez les femmes;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;9556
+Score Santé;Taux standardisé de mortalité prématurée évitable liée aux pratiques de prévention primaire selon le sexe;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1;9569
+Score Santé;Taux de variation annuel moyen du taux standardisé de mortalité prématurée évitable liée aux pratiques de prévention primaire slon le sexe;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;9570
+Score Santé;Taux de variation annuel moyen de l'indice comparatif de mortalité prématurée évitable par cancer liée aux pratiques de prévention primaire selon le sexe;1;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;1;0;0;0;9584
+Score Santé;Taux d'admission en ALD chez les hommes, selon l'âge;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;1;9589
+Score Santé;Taux de variation annuel moyen du nombre d'admissions en ALD chez les femmes de 0-14 ans par cause;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;1;9734
+Score Santé;Proportion d'enfants ayant un score d'Apgar inférieur à 6 ;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;9749
+Score Santé;Taux de variation annuel moyen du taux standardisé d'admission prématurée en ALD pour maladies infectieuses et parasitaires (pop. réf. RP 2006) selon le sexe;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;1;9807
+Score Santé;Nombre de séjours hospitaliers en soins de courte durée pour Sida chez les hommes selon l'âge;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;9832
+Score Santé;Taux standardisé d'admission prématurée en ALD pour sida (pop. réf. RP 2006) selon le sexe;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;1;9882
+Score Santé;Taux de variation annuel moyen du taux d'admission en ALD pour sida chez les hommes, selon l'âge ;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;1;9885
+Score Santé;Nombre de décès prématurés par tuberculose selon le sexe;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;9907
+Score Santé;Taux de variation annuel moyen du nombre de décès par tumeur selon les localisations chez les hommes;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;9958
+Score Santé;Taux de variation annuel moyen du Taux de mortalité par tumeur chez les hommes, selon l'âge;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;9966
+Score Santé;Taux standardisé d'admission prématurée en ALD pour tumeurs (pop. réf. RP 2006) selon le sexe;1;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;1;9994
+Score Santé;Part des décès prématurés par cancer selon le sexe;1;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;10021
+Score Santé;Taux de variation annuel moyen du Nombre de séjours hospitaliers en soins de courte durée pour cancer chez les femmes selon l'âge;1;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;10053
+Score Santé;Taux de variation annuel moyen du Taux standardisé de mortalité prématurée par cancer des VADS (pop. réf. RP 2006) selon le sexe;1;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;10078
+Score Santé;Nombre d'admissions en ALD pour cancer des VADS chez les hommes selon l'âge;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;1;10082
+Score Santé;Taux de mortalité par cancer de la lèvre, de la cavité buccale et du pharynx chez les femmes, selon l'âge;1;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;10107
+Score Santé;Nombre de décès par cancer de la trachée, des broches et du poumon chez les hommes selon l'âge;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;10179
+Score Santé;Taux de variation annuel moyen du Taux standardisé de mortalité prématurée par cancer de l'estomac (pop. réf. RP 2006) selon le sexe;1;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;10286
+Score Santé;Taux de variation annuel moyen de l'indice comparatif de mortalité prématurée par cancer de l'estomac selon le sexe;1;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;10288
+Score Santé;Taux standardisé de recours à l’hospitalisation pour cancer de l'estomac (pop. réf. ELP 1990) selon le sexe;1;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;10294
+Score Santé;Nombre de séjours hospitaliers en soins de courte durée pour cancer du colon rectum chez les femmes selon l'âge;1;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;10330
+Score Santé;Nombre de décès par cancer du foie chez les femmes selon l'âge;1;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;10350
+Score Santé;Taux standardisé de mortalité par cancer du pancréas (pop. réf. PSE 2013) selon le sexe;1;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;10395
+Score Santé;Taux standardisé d'admission en ALD pour cancer du pancréas (pop. réf. RP 2006) selon le sexe;1;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;1;10421
+Score Santé;Taux standardisé d'admission prématurée en ALD pour cancer du pancréas (pop. réf. RP 2006) selon le sexe;1;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;1;10424
+Score Santé;Taux de mortalité par mélanome chez les hommes, selon l'âge;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;10430
+Score Santé;Nombre d'admissions en ALD pour cancer du sein chez les femmes selon l'âge;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;1;10493
+Score Santé;Taux de variation annuel moyen du Taux standardisé de mortalité par cancer de l'utérus (pop. réf. RP 2006);1;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;10508
+Score Santé;Taux de variation annuel moyen du Indice comparatif de mortalité par cancer de la prostate;1;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;10568
+Score Santé;Taux standardisé de mortalité prématurée par cancer du rein (pop. réf. RP 2006) selon le sexe;1;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;10612
+Score Santé;Taux de mortalité par cancer de la vessie chez les hommes, selon l'âge;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;10627
+Score Santé;Indice comparatif de mortalité par cancer du système nerveux central selon le sexe;1;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;10674
+Score Santé;Taux standardisé de mortalité prématurée par cancer du système nerveux central (pop. réf. RP 2006) selon le sexe;1;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;10682
+Score Santé;Taux de variation annuel moyen du Taux de mortalité par maladie de Hodgkin chez les femmes, selon l'âge;1;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;10706
+Score Santé;Taux de mortalité par maladie de Hodgkin chez les femmes, selon l'âge;1;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;10707
+Score Santé;Nombre d'admissions en ALD pour lymphome malin non hodgkinien chez les femmes selon l'âge;1;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;1;10758
+Score Santé;Taux de variation annuel moyen du Nombre de décès par leucémie chez les femmes selon l'âge;1;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;10768
+Score Santé;Part des décès prématurés par leucémie selon le sexe;1;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;10783
+Score Santé;Taux standardisé de mortalité par troubles mentaux (pop. réf. RP 2006) selon le sexe;1;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;10816
+Score Santé;Taux de variation annuel moyen du Taux standardisé de mortalité prématurée par troubles mentaux (pop. réf. RP 2006) selon le sexe;1;1;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;10825
+Score Santé;Part des décès prématurés par psychose alcoolique et alcoolisme selon le sexe;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;10861
+Score Santé;Taux standardisé d'admission prématurée en ALD pour psychose alcoolique et alcoolisme (pop. réf. PSE 2013) selon le sexe;1;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;1;10875
+Score Santé;Taux standardisé d'admission en ALD pour troubles mentaux et du comportement liés à l'utilisation de substances psycho-actives (pop. réf. RP 2006) selon le sexe;1;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1;1;0;1;10882
+Score Santé;Taux standardisé d'admission prématurée en ALD pour troubles mentaux et du comportement liés à l'utilisation de substances psycho-actives (pop. réf. PSE 2013) selon le sexe;1;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;1;10884
+Score Santé;Taux standardisé d'admission en ALD pour troubles de l'humeur (pop. réf. RP 2006) selon le sexe;1;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;1;10900
+Score Santé;Taux d'admission en ALD pour troubles des conduites alimentaires chez les hommes, selon l'âge ;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;1;10915
+Score Santé;Nombre d'admissions prématurées en ALD pour retard mental selon le sexe;1;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;1;10937
+Score Santé;Taux standardisé d'admission prématurée en ALD pour retard mental (pop. réf. PSE 2013) selon le sexe;1;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;1;10938
+Score Santé;Nombre d'admissions prématurées en ALD pour troubles du développement psychologique et des acquisitions selon le sexe;1;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;1;10946
+Score Santé;Nombre de décès prématurés par maladies de l’appareil circulatoire selon le sexe;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;10973
+Score Santé;Taux brut de recours à l'hospitalisation pour maladies de l’appareil circulatoire chez les hommes selon l'âge;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;10984
+Score Santé;Taux d'admission en ALD pour hypertension artérielle sévère chez les femmes, selon l'âge ;1;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;1;11009
+Score Santé;Indice comparatif de mortalité par cardiopathies ischémiques selon le sexe;1;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;11028
+Score Santé;Taux standardisé de mortalité par maladie vasculaire cérébrale (pop. réf. RP 2006) selon le sexe;1;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;11059
+Score Santé;Taux de variation annuel moyen du Taux standardisé de mortalité prématurée par maladie vasculaire cérébrale (pop. réf. PSE 2013) selon le sexe;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;11066
+Score Santé;Taux de variation annuel moyen du Nombre de décès par maladie de l'appareil respiratoire chez les hommes selon l'âge;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;11081
+Score Santé;Nombre d'admissions en ALD pour bronchite chronique et maladies pulmonaires obstructives chez les hommes selon l'âge;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;1;11138
+Score Santé;Taux de variation annuel moyen du taux de mortalité par bronchite chronique et maladies pulmonaires obstructives chez les hommes, selon l'âge;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;11149
+Score Santé;Indice comparatif de mortalité par pneumonie et bronchopneumonie selon le sexe;1;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;11187
+Score Santé;Taux de variation annuel moyen du nombre de décès prématurés par asthme selon le sexe;1;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;11262
+Score Santé;Taux de variation annuel moyen du Taux de mortalité par maladie de l'appareil digestif chez les hommes, selon l'âge;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;11286
+Score Santé;Taux d'admission en ALD pour maladie de l'appareil digestif chez les femmes, selon l'âge ;1;0;0;0;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;1;11315
+Score Santé;Taux de variation annuel moyen du Nombre de décès par cirrhose du foie chez les femmes selon l'âge;1;0;0;0;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;11323
+Score Santé;Taux standardisé de mortalité prématurée par cirrhose du foie (pop. réf. RP 2006) selon le sexe;1;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;11342
+Score Santé;Taux de variation annuel moyen de l'indice comparatif de mortalité prématurée par cirrhose du foie selon le sexe;1;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;11343
+Score Santé;Taux d'admission en ALD pour maladies du système nerveux chez les femmes, selon l'âge ;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;1;11363
+Score Santé;Nombre d'admissions en ALD pour maladies métaboliques héréditaires chez les femmes selon l'âge;1;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;1;11433
+Score Santé;Taux de variation annuel moyen du Taux standardisé de mortalité prématurée par mucoviscidose (pop. réf. PSE 2013) selon le sexe;1;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;11459
+Score Santé;Nombre d'admissions en ALD pour maladies du sang et des organes hématopoïétiques chez les femmes selon l'âge;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;1;11471
+Score Santé;Taux d'admission en ALD pour insuffisances médullaires chez les femmes, selon l'âge ;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;11482
+Score Santé;Taux standardisé d'admission prématurée en ALD pour maladies du système ostéo-articulaire, des muscles et du tissu conjonctif (pop. réf. RP 2006) selon le sexe;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;1;11523
+Score Santé;Taux d'admission en ALD pour spondylarthrite ankylosante chez les femmes, selon l'âge ;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;1;11554
+Score Santé;Taux standardisé d'admission en ALD pour spondylarthrite ankylosante (pop. réf. RP 2006) selon le sexe;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;1;11556
+Score Santé;Séropositivité VHC chez les toxicomanes en centres spécialisés;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;11664
+Score Santé;Séropositivité VHC chez les toxicomanes en établissements sanitaires;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;11665
+Score Santé;Proportion de jeunes âgés de 17-18 ans déclarant avoir consommé des champignons hallucinogènes;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;11671
+Score Santé;Nombre de décès prématurés par suicide selon le sexe;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;11780
+Score Santé;Proportion de jeunes déclarant avoir consommé des tranquillisants au cours de la vie selon le sexe;1;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;11791
+Score Santé;Proportion de jeunes déclarant avoir consommé des somnifères au cours de la vie selon le sexe;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;11792
+Score Santé;Proportion d’adultes de 18 ans ou plus déclarant un indice de masse corporelle supérieur ou égal à 30 kg/m2 (obésité) ;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;11795
+Score Santé;Taux de variation annuel moyen du Nombre de décès par cancer de la plèvre chez les femmes selon l'âge;1;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;11801
+Score Santé;Taux de variation annuel moyen du Taux de mortalité par cancer de la plèvre chez les femmes, selon l'âge;1;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;11805
+Score Santé;Nombre de lits de soins de suite et de réadaptation selon le type de soins et le statut de l'établissement;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;11891
+Score Santé;Répartition en pourcentage des lits et places d'hospitalisation dans les hôpitaux psychiatriques privés;1;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;11914
+Score Santé;Répartition en pourcentage des lits et places d'hospitalisation en psychiatrie dans le secteur privé;1;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;11916
+Score Santé;Densité de médecins généralistes;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;11978
+Score Santé;Nombre de médecins spécialistes en Médecine physique et rééducation;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;11994
+Score Santé;Densité de médecins spécialistes en Médecine physique et rééducation;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;12014
+Score Santé;Nombre de médecins généralistes libéraux - omnipraticiens;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;12024
+Score Santé;Nombre de médecins spécialistes libéraux en Médecine physique et rééducation;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;12038
+Score Santé;Densité de médecins spécialistes libéraux en Médecine physique et rééducation;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;12058
+Score Santé;Densité de médecins spécialistes libéraux en Chirurgie orthopédique et traumatologique;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0;12061
+Score Santé;Densité de médecins spécialistes libéraux en Biologie médicale;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;12065
+Score Santé;Densité de médecins spécialistes libéraux en Psychiatrie et neuropsychiatrie;1;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;12066
+Score Santé;Nombre d’actes de dentistes libéraux par habitant;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;12097
+Score Santé;Nombre de visites de médecins spécialistes libéraux hors radiologues actifs à part entière par spécialiste;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;12114
+Score Santé;Nombre total d'actes de médecins libéraux actifs à part entière spécialistes en Gynécologie;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;12124
+Score Santé;Nombre d'actes des infirmiers libéraux pour 100 personnes;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;12211
+Score Santé;Nombre de professionnels de PMI;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;12242
+Score Santé;Nombre de femmes enceintes par sage-femme de PMI;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;12243
+Score Santé;Nombre de nouveau-nés par puéricultrice de PMI;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;12244
+Score Santé;Nombre d'enfants de moins de 6 ans par infirmière de PMI;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12245
+Score Santé;Nombre d'enfants de moins de 6 ans par médecin de PMI;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12246
+Score Santé;Nombre de professionnels de santé scolaire ;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;12247
+Score Santé;Taux d'élèves pris en charge par les médecins scolaires;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12248
+Score Santé;Taux d'élèves pris en charge par les infirmières scolaires;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12249
+SirséPACA;Projection de la population;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;12267
+SirséPACA;Population des moins de 18 ans parmi les femmes;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;12270
+SirséPACA;Population des 50-74 ans parmi les hommes;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;12283
+SirséPACA;Population des 15 à 64 ans par sexe;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;12330
+SirséPACA;Nombre de femmes DEFM de catégorie A,B,C au 31 déc. de l'année;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;12359
+SirséPACA;Revenu fiscal médian;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;12367
+SirséPACA;Nombre de ménages avec au moins deux voitures;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;12396
+SirséPACA;Nombre d'assurés du régime général ;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;1;0;0;12421
+SirséPACA;Indice comparatif de mortalité prématurée (base 100 : Paca);1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;12457
+SirséPACA;Significativité de l'indice comparatif de mortalité par évènements dont l'intention n'est pas déterminée  (base 100 : France) par sexe;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;12474
+SirséPACA;Significativité de l'indice de surmortalité par maladies de l'appareil circulatoire par CSP (ref. CSP : cadres);1;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;12484
+SirséPACA;Indice comparatif de mortalité par maladies infectieuses et parasitaires (base 100 : Paca);1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;12517
+SirséPACA;Nombre de décès par consommation excessive d'alcool;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;12521
+SirséPACA;Indice comparatif de mortalité par traumatismes et empoisonnements (base 100 : France);1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;12542
+SirséPACA;Nombre d'assurés âgés de 20 ans ou plus diabétiques traités (rég. gén.);1;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0;12609
+SirséPACA;Indice comparatif de morbidité du diabète traité chez les 20 ans ou plus (base 100 : PACA) (rég. gén.);1;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;12612
+SirséPACA;Nombre de diabétiques âgés de 20 ans ou plus, selon l'examen de surveillance;1;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0;12614
+SirséPACA;Part de diabétiques âgés de 20 ans ou plus, selon l'examen de surveillance;1;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0;12615
+SirséPACA;Nombre d'assurés ayant eu au moins un remboursement de psychotropes (rég. gén.);1;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;12616
+SirséPACA;Taux comparatif d'assurés ayant eu au moins un remboursement de psychotropes (rég. gén.);1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;12617
+SirséPACA;Nombre d'assurés ayant eu au moins six remboursements de psychotropes (rég. gén.);1;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;12620
+SirséPACA;Taux comparatif d'assurés ayant eu au moins six remboursements de psychotropes (rég. gén.);1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;12621
+SirséPACA;Nombre de remboursements de psychotropes prescrits par un médecin généraliste (rég. gén.);1;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;12624
+SirséPACA;Part de remboursements de psychotropes prescrits par un médecin généraliste (rég. gén.);1;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;12625
+SirséPACA;Nombre de remboursements de psychotropes prescrits par un psychiatre (rég. gén.);1;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;12626
+SirséPACA;Part de remboursements de psychotropes prescrits par un psychiatre (rég. gén.);1;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;12627
+SirséPACA;Nombre annuel d'interruptions volontaires de grossesse;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;12628
+SirséPACA;Taux annuel d'interruptions volontaires de grossesse;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;12629
+SirséPACA;Nombre d'assurés (enfants) ayant eu au moins un recours à un chirurgien dentiste libéral (rég. gén.);1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;12630
+SirséPACA;Part d'assurés (enfants) ayant eu au moins un recours à un chirurgien dentiste libéral (rég. gén.);1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;12631
+SirséPACA;Nombre d'assurés (jeunes adultes) ayant eu au moins un recours à un chirurgien dentiste libéral (rég. gén.);1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0;12632
+SirséPACA;Part d'assurés (jeunes adultes) ayant eu au moins un recours à un chirurgien dentiste libéral (rég. gén.);1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0;12633
+SirséPACA;Nombre d'assurés (adultes) ayant eu au moins un recours à un chirurgien dentiste libéral (rég. gén.);1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0;12634
+SirséPACA;Part d'assurés (adultes) ayant eu au moins un recours à un chirurgien dentiste libéral (rég. gén.);1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0;12635
+SirséPACA;Nombre d'assurés (enfants) ayant eu au moins 1 remb. pour bilan ou consultation de chirurgien dentiste libéral (rég. gén.);1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;0;1;0;12636
+SirséPACA;Part d'assurés (enfants) ayant eu au moins 1 remb. pour bilan ou consultation de chirurgien dentiste libéral (rég. gén.);1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;0;1;0;12637
+SirséPACA;Nombre d'assurés (enfants) ayant eu au moins 1 remb. pour bilan ou consultation de chirurgien dentiste libéral, selon le statut CMUC (rég. gén.);1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;0;1;0;12638
+SirséPACA;Part d'assurés (enfants) ayant eu au moins 1 remb. pour bilan ou consultation de chirurgien dentiste libéral, selon le statut CMUC (rég. gén.);1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;0;1;0;12639
+SirséPACA;Nombre d'assurés (enfants) ayant eu au moins 1 remb. pour scellement de sillons (rég. gén.);1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;0;1;0;12640
+SirséPACA;Part d'assurés (enfants) ayant eu au moins 1 remb. pour scellement de sillons (rég. gén.);1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;0;1;0;12641
+SirséPACA;Nombre d'assurés (enfants) ayant eu au moins 1 remb. pour scellement de sillons, selon le statut CMUC (rég. gén.);1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;0;1;0;12642
+SirséPACA;Part d'assurés (enfants) ayant eu au moins 1 remb. pour scellement de sillons, selon le statut CMUC (rég. gén.);1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;0;1;0;12643
+SirséPACA;Nombre d'assurés (jeunes adultes) ayant eu au moins une consultation ou visite chez un chirurgien dentiste ou un stomatologue (rég. gén.);1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0;12644
+SirséPACA;Part d'assurés (jeunes adultes) ayant eu au moins une consultation ou visite chez un chirurgien dentiste ou un stomatologue (rég. gén.);1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0;12645
+SirséPACA;Nombre de personnes de 19 à 24 ans ayant eu au moins un acte de soins conservateurs chez un chirurgien dentiste ou un stomatologue (rég. gén.);1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;12646
+SirséPACA;Part de personnes de 19 à 24 ans ayant eu au moins un acte de soins conservateurs chez un chirurgien dentiste ou un stomatologue (rég. gén.);1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;12647
+SirséPACA;Nombre de personnes de 19 à 24 ans ayant eu au moins un acte de prothèse dentaire chez un chirurgien dentiste ou un stomatologue (rég. gén.);1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;12648
+SirséPACA;Taux de participation au dépistage organisé ou de mammographies bilatérales des femmes de 50 à 64 ans, selon le statut CMUC (rég. gén.);1;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12659
+SirséPACA;Pôle d'attraction des chirurgiens dentistes libéraux;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;12661
+SirséPACA;Pôle d'attraction des infirmiers libéraux;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;12662
+SirséPACA;Pôle d'attraction des masseurs-kinésithérapeutes libéraux;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;12663
+SirséPACA;Part de consommation intra zone pour les médecins généralistes libéraux;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;12664
+SirséPACA;Part de consommation intra zone pour les chirurgiens dentistes libéraux;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;12665
+SirséPACA;Part de consommation intra zone pour les infirmiers libéraux;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;12666
+SirséPACA;Part de consommation intra zone pour les masseurs-kinésithérapeutes libéraux;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;12667
+SirséPACA;Nombre annuel moyen d'admissions en Affection de longue durée (ALD) pour Cancer de l'utérus;1;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;1;12687
+SirséPACA;Taux comparatif d'incidences de l'affection de longue durée Affection psychiatrique (ALD n°23) par sexe;1;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;1;12693
+SirséPACA;Indice comparatif d'incidence de l'ALD (base 100 : Paca) Insuffisances cardiaques graves (ALD n°5);1;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;1;12709
+SirséPACA;Indice comparatif d'incidence de l'ALD (base 100 : France métr.) pour Diabète non insulino-dépendant par sexe;1;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;1;12722
+SirséPACA;Nombre de médecins généralistes libéraux de sexe féminin;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;12781
+SirséPACA;Nombre de médecins spécialistes libéraux en Spécialités chirurgicales;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;12797
+SirséPACA;Nombre de structures d'accompagnement selon le type de structure;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;12899
+SirséPACA;Communes soumises au risque incendie de forêt;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;12903
+SirséPACA;Nombre d'arrêtés pour catastrophe naturelle depuis 1982;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;12908
+SirséPACA;Nombre de cas incidents de saturnisme chez les 0-17 ans;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;12933
+SirséPACA;Nombre de cas prévalents de saturnisme chez les  0-17 ans;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;12934
+SUMER;Taux de salariés qui travaillent le dimanche et jours fériés, même occasionnellement par mode d'activité et par sexe;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;12997
+SUMER;Taux de salariés qui ont un rythme de travail imposé par d'autres contraintes techniques, par sexe et par secteur d'activité dans le privé;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;13033
+SUMER;Taux de salariés qui sont en impossibilité de faire varier les délais fixés, par sexe et par secteur d'activité dans le privé;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;13040
+SUMER;Taux de salariés qui doivent fréquemment interrompre une tâche pour en faire une autre non prévue, par sexe et par fonction publique (Etat, Hospitalière, Territoriale);1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;13050
+SUMER;Taux de salariés qui changent de poste en cas d'urgence ou d'absence d'un collègue, par sexe et par fonction publique (Etat, Hospitalière, Territoriale);1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;13052
+SUMER;Taux de salariés qui considèrent qu'une erreur dans le travail pourrait entraîner des conséquences dangereuses pour votre sécurité ou celle d'autres personnes, par sexe et par secteur d'activité dans le privé;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;13069
+SUMER;Taux de salariés qui considèrent pour effectuer correctement le travail, ne pas avoir en général un nombre de collègues ou de collaborateurs suffisant, par sexe et par secteur d'activité dans le privé;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;13074
+SUMER;Taux de salariés qui ont un ou des entretien(s) individuel(s) d'évaluation par an, par sexe et par secteur d'activité dans le privé;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;13077
+SUMER;Recevoir le respect que je mérite de mes collègues  (pas d'accord), par sexe et par secteur d'activité dans le privé;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;13103
+SUMER;Travail sur écran 20h ou plus par semaine, par mode d'activité et par sexe;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;13135
+SUMER;Au moins une contrainte physique intense, par sexe et par secteur d'activité dans le privé;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;13138
+Atlas de la Santé Mentale en France (Atlasanté);Taux de recours en ES pour tentative de suicide chez les 18-64 ans;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;13264
+Data.Drees;Nombre de personnes âgées accueillies chez des particuliers;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;13978
+Data.Drees;Nombre de personnes âgées accueillies chez des particuliers;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;13985
+Data.Drees;Part des aides individuelles du Fond d'aide aux jeunes attribuées à des personnes qui vivent chez les parents;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;14349
+Data.Drees;Part des aides individuelles du Fond d'aide aux jeunes attribuées à des personnes qui vivent chez un tiers;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;14350
