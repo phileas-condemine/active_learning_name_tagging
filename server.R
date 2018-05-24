@@ -2,8 +2,13 @@ function(input, output, session){
   # indicateurs_pred_react <- reactiveVal()#init reactive value
   # indicateurs_pred_react(indicateurs_pred)#update value
   # ind_to_tag <- reactive(indicateurs_pred_react()[which.min(max_prob)])
+  print("yo")
   my_reactives <- reactiveValues(ind_done=c(),indicateurs_pred_react=indicateurs_pred)
-  ind_to_tag <- reactive(my_reactives$indicateurs_pred_react[which.min(max_prob)])
+  ind_to_tag <- reactive({
+    print("next indicateur to be tagged")
+    cat(file=stderr(),my_reactives$indicateurs_pred_react[which.min(max_prob)]$Indicateur_enriched,"\n")
+    my_reactives$indicateurs_pred_react[which.min(max_prob)]
+    })
   output$to_tag <- renderDT(data.table(ind_to_tag()[,vars,with=F]),
                             options=list(searching = FALSE,paging = FALSE),rownames= FALSE)
 
@@ -19,10 +24,12 @@ function(input, output, session){
     df_tag$Indicateur=ind_tagged$Indicateur
     rownames(df_tag) <- NULL
     # https://shiny.rstudio.com/articles/persistent-data-storage.html#local
-    filePath <- paste0("man_labelled_data/","ind_",ind_tagged$ind,"_time_",
+    # filePath <- paste0("man_labelled_data/","ind_",ind_tagged$ind,"_time_",
+                       # Sys.time()%>%as.character%>%stringr::str_replace_all(clean_date_to_save),".RData")
+    filePath <- paste0("ind_",ind_tagged$ind,"_time_",
                        Sys.time()%>%as.character%>%stringr::str_replace_all(clean_date_to_save),".RData")
     save(df_tag,file=filePath)
-    rdrop2::drop_upload(filePath, path = outputDir, mode = "overwrite")
+    # rdrop2::drop_upload(filePath, path = outputDir, mode = "overwrite",dtoken = token)
     my_reactives$ind_done=c(my_reactives$ind_done,ind_tagged$ind)
     print(paste("just tagged ind :",my_reactives$ind_done,collapse = " "))
     print(nrow(my_reactives$indicateurs_pred_react))
