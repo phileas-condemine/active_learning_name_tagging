@@ -93,4 +93,4 @@ system.time(xgbmodel <- xgb.train(params = params,dtrain,nrounds = 500,watchlist
 
 
 save(list="xgbmodel",file="modeles/xgbmodel_enriched_3gram_eta01_depth8_dummy.RData")
-rdrop2::drop_upload("modeles/xgbmodel_enriched_3gram_eta01_depth8_dummy.RData",path = "modeles", mode = "overwrite")
+# rdrop2::drop_upload("modeles/xgbmodel_enriched_3gram_eta01_depth8_dummy.RData",dtoken = token,path = "modeles", mode = "overwrite")

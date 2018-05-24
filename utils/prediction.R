@@ -19,7 +19,7 @@ load("RData/dtm_non_tagged.RData")
 if("xgbmodel_enriched_3gram_eta01_depth8_dummy.RData"%in%list.files("modeles")){
 system.time(load("modeles/xgbmodel_enriched_3gram_eta01_depth8_dummy.RData"))
 }else{
-  rdrop2::drop_download("modeles/xgbmodel_enriched_3gram_eta01_depth8_dummy.RData",overwrite = T,local_path = "modeles")
+  # rdrop2::drop_download("modeles/xgbmodel_enriched_3gram_eta01_depth8_dummy.RData",dtoken = token,overwrite = T,local_path = "modeles")
   system.time(load("modeles/xgbmodel_enriched_3gram_eta01_depth8_dummy.RData"))
 }
 
@@ -67,5 +67,5 @@ indicateurs_pred[which.min(max_prob/min_prob)]
 
 save(list="indicateurs_pred",file="RData/indicateurs_a_tagger.RData")
 
-rdrop2::drop_upload("RData/indicateurs_a_tagger.RData", mode = "overwrite",path = "RData")
+# rdrop2::drop_upload("RData/indicateurs_a_tagger.RData",dtoken = token, mode = "overwrite",path = "RData")
 

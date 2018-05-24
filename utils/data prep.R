@@ -127,7 +127,7 @@ tagged_triplet=data.table(tagged_triplet)
 
 
 #Récupération des indicateurs déjà taggés à la main
-man_tagged_files=drop_dir("man_labelled_data")
+# man_tagged_files=drop_dir("man_labelled_data",dtoken = token)
 if (sum(dim(man_tagged_files))>0){
   man_tagged_files$ind=unlist(stringr::str_extract_all(pattern = "(ind_)([:digit:]*)(_time)",string = man_tagged_files$name))
   man_tagged_files%>%
@@ -139,7 +139,7 @@ if (sum(dim(man_tagged_files))>0){
                                       paste0("man_labelled_data/",list.files("man_labelled_data/"))]
   if(nrow(man_tagged_files)>0){
   df_man_tags=do.call("rbind",apply(man_tagged_files[,c("path","local_path")],1,function(path){
-    drop_download(path[1],local_path = "man_labelled_data/",overwrite = T)
+    # drop_download(path[1],local_path = "man_labelled_data/",overwrite = T,dtoken = token)
     load(path[2])
     df_tag
   }))
@@ -150,7 +150,7 @@ if (sum(dim(man_tagged_files))>0){
 
 
 save(list="tagged_triplet",file="RData/tagged_triplet.RData")
-rdrop2::drop_upload("RData/tagged_triplet.RData", mode = "overwrite",path = "RData")
+# rdrop2::drop_upload("RData/tagged_triplet.RData", mode = "overwrite",path = "RData",dtoken = token)
 
 ##### Selection indice des indicateurs taggés ##### 
 #il faut enrichir (scraping) en priorité les observations qui ont été taggées !
