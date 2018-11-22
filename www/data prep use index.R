@@ -11,6 +11,8 @@ library(readxl)
 library(Matrix)
 library(text2vec)
 library(rdrop2)
+options("scipen"=100, "digits"=10) # GESTION DE LA CONVERSION DES NUMERICS EN CHARACTER SANS UTILISER LA NOTATION SCIENTIFIQUE !!!
+
 token <- readRDS("droptoken.rds")
 drop_acc(dtoken = token)
 # outputDir="man_labelled_data"
@@ -20,7 +22,7 @@ drop_acc(dtoken = token)
 #sauvegarder en CSV séparé par point-virgule
 data2 <- fread("data_original/29032018_Index2.csv",encoding="Latin-1")
 
-
+nb_indicateurs=nrow(data2)
 
 
 
@@ -51,16 +53,11 @@ names(fix_stop) <- stop_words
 
 
 
-
-
-
 data2 <- data2%>%
   mutate(Indicateur=as.character(Indicateur))%>%#passage en char
   mutate_if(is.character,tolower)%>%#en minuscules
   mutate_if(is.character,function(x)str_replace_all(x,fix_stop))%>%#suppression de stopwords génériques et spécifiques
   mutate_if(is.character,tm::stripWhitespace)#suppression des doubles espaces
-
-
 
 
 
@@ -95,8 +92,11 @@ save(list="indicateurs_tags_pages",file="RData/indicateurs_tags_pages.RData")
 
 ##### Données taggées #####
 
-# tagged_old <- fread("data_original/03042018_prediction.csv",encoding="Latin-1")
+# A CAUSE D'UNE ERREUR D'ENREGISTREMENT DE CERTAINES DONNEES, ON A FAIT TOURNER LE SCRIPT fix_man_labelled_data.R
 
+if ("tagged_triplet.RData"%in%list.files("RData")){
+  load("RData/tagged_triplet.RData")
+}else {
 tagged <- fread("data_original/3105_Index des indicateurs tagges.csv",encoding="Latin-1")
 mat_cor=cor(tagged[,3:36])
 
@@ -145,14 +145,11 @@ tagged_triplet=reshape::melt(tagged)
 # tagged_triplet=cbind(do.call("rbind",strsplit(tagged_triplet$id,split=" ___ ")),tagged_triplet%>%dplyr::select(-id))%>%rename(Indicateur="1",Base="2")
 tagged_triplet=merge(tagged_triplet,mapping,by.x="id",by.y="index")
 tagged_triplet=data.table(tagged_triplet)
-
+}
 #Récupération des indicateurs déjà taggés à la main
 
 my_files=paste0("man_labelled_data/",list.files("man_labelled_data"))
 my_files=my_files[grep(pattern = ".RData",x = my_files,ignore.case = T)]
-
-
-
 
 
 
@@ -164,10 +161,7 @@ if ("aggreg_man_lab.RData"%in%list.files("man_labelled_data/")){
   load("man_labelled_data/aggreg_man_lab.RData")
 }
 
-
-
-
-
+# aggreg_man_lab=NULL
 
 my_files=paste0("man_labelled_data/",list.files("man_labelled_data"))
 my_files=my_files[grep(pattern = ".RData",x = my_files,ignore.case = T)]
@@ -182,7 +176,9 @@ man_tagged_files$id <- man_tagged_files$ind%>%
   gsub(pattern = "_time",replacement = "")%>%
   as.numeric
 
-man_tagged_files <- man_tagged_files%>%filter(!id%in%aggreg_man_lab$ind)%>%dplyr::select(-id)
+man_tagged_files <- man_tagged_files%>%
+  filter(!id%in%aggreg_man_lab$ind)%>%
+  dplyr::select(-id)
 
 if (sum(dim(man_tagged_files))>0){
   man_tagged_files%>%
@@ -220,9 +216,9 @@ if (sum(dim(man_tagged_files))>0){
 
 aggreg_man_lab <- aggreg_man_lab%>%filter(!variable%in%c("efficience","pertinence soins"))
 
-tagged_triplet=rbind(tagged_triplet,aggreg_man_lab%>%rename(id=ind))
+tagged_triplet=rbind(tagged_triplet[,c("Indicateur","variable","id","Base","value")],aggreg_man_lab%>%rename(id=ind))
 
-tagged_triplet$id=as.numeric(tagged_triplet$id)
+tagged_triplet$id=as.numeric(as.character(tagged_triplet$id))
 
 tagged_triplet <- tagged_triplet%>%
   mutate(Indicateur=as.character(Indicateur))%>%#passage en char
@@ -234,7 +230,7 @@ tagged_triplet <- tagged_triplet%>%
 tags <- unique(tagged_triplet$variable)
 tagged_triplet=merge(tagged_triplet,data.frame(tags=tags,tag_id=1:length(tags)),by.x="variable",by.y="tags")
 
-tagged_triplet <- tagged_triplet%>%mutate(i=(tag_id-1)*20000+id)%>%select(-tag_id)
+tagged_triplet <- tagged_triplet%>%mutate(i=(tag_id-1)*nb_indicateurs+id)%>%select(-tag_id)
 
 
 save(list="tagged_triplet",file="RData/tagged_triplet.RData")
@@ -402,5 +398,11 @@ system.time(match_notions_indic <- do.call("rbind",pbapply::pbsapply(1:nrow(noti
 match_notions_indic <- unique(match_notions_indic)
 head(match_notions_indic)
 
+### check que les notions ont bien été appliquées pour les 21 tags associés
+# tags[as.numeric(names(table(match_notions_indic$tag_id)))]
+# tags[-as.numeric(names(table(match_notions_indic$tag_id)))]
+# tags
+# table(match_notions_indic$tag_id)
 
-save(list=c("i","j","dimnm","i_tags","j_tags","dimnm_tags","match_notions_indic","tags","text"),file="RData/dtm_prep.RData")
+
+save(list=c("i","j","dimnm","i_tags","j_tags","dimnm_tags","match_notions_indic","tags","text","nb_indicateurs"),file="RData/dtm_prep.RData")
